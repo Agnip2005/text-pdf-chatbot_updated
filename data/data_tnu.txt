@@ -1,0 +1,2258 @@
+GREENWOOD INSTITUTE OF TECHNOLOGY AND MANAGEMENT (GITM)
+Complete College Information Guide — RAG Chatbot Knowledge Base
+SECTION 1: ABOUT THE COLLEGE
+1.1 Introduction to Greenwood Institute of Technology and Management
+Greenwood Institute of Technology and Management, popularly known as GITM, is a premier multi-disciplinary institution of higher education situated in the heart of West Bengal. Established in the year 2005, the college has grown exponentially over the past two decades to become one of the most sought-after educational destinations in the eastern region of India. The institution is affiliated with Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal, and is approved by the All India Council for Technical Education (AICTE), New Delhi. The college is also recognized by the University Grants Commission (UGC) and holds accreditation from the National Assessment and Accreditation Council (NAAC) with a B++ grade.
+
+Greenwood Institute of Technology and Management is spread across a lush green campus of approximately 25 acres located in Barasat, North 24 Parganas, West Bengal. The campus is well-connected to Kolkata city, being approximately 25 kilometers from the city center, and is easily accessible by road, rail, and bus. The institute is committed to providing world-class education at affordable costs, making higher education accessible to students from all socioeconomic backgrounds, including those from rural areas, tribal communities, and economically weaker sections of society.
+
+The vision of Greenwood Institute of Technology and Management is to create a knowledge-driven, innovation-oriented academic environment that nurtures future-ready professionals, researchers, and entrepreneurs. The mission of the institution is to deliver quality technical and professional education through experienced faculty, modern infrastructure, industry collaboration, and a strong value system. The college believes that education is not merely the transfer of information but the holistic development of a student's personality, critical thinking ability, ethical values, and professional competence.
+
+Since its inception, GITM has produced thousands of graduates who have gone on to work in some of the most reputed organizations across India and abroad. The college has a strong alumni network spread across various sectors including Information Technology, Healthcare, Agriculture, Banking, Management, and Manufacturing. The placement cell of the institution works round the clock to ensure that every eligible student gets a fair opportunity to secure a rewarding career.
+
+The college currently offers undergraduate and postgraduate programs across multiple disciplines including Engineering, Technology, Science, Commerce, Management, Agriculture, Pharmacy, and Allied Health Sciences. With over 5000 students enrolled across various programs and more than 300 faculty and staff members, GITM is a vibrant, diverse, and dynamic institution that celebrates academic excellence and cultural richness in equal measure.
+
+The college has a dedicated Research and Development cell that encourages faculty members and students to engage in applied research, patent development, and publication of research papers in reputed national and international journals. The R&D cell has collaborations with several industries and research organizations, providing students and faculty members with exposure to real-world challenges and cutting-edge technologies.
+
+GITM takes pride in its inclusive culture, where students from different states, communities, religions, and economic backgrounds come together to learn, grow, and create. The college has a zero-tolerance policy against ragging and discrimination and maintains a safe, respectful, and nurturing environment for all its students. The Internal Complaints Committee (ICC), Anti-Ragging Committee, and Student Grievance Redressal Cell are always active and accessible to address any concern that students may have during their time at the institution.
+
+1.2 Location and Campus
+Greenwood Institute of Technology and Management is located at:
+
+Address: Greenwood Campus, NH-35, Barasat-Bangaon Road, Habra More, Barasat, North 24 Parganas, West Bengal — 700126
+
+The campus is easily accessible from:
+
+Barasat Railway Station (approximately 4 kilometers)
+Birati Bus Stand (approximately 8 kilometers)
+Dum Dum Metro Station (approximately 18 kilometers)
+Netaji Subhas Chandra Bose International Airport, Kolkata (approximately 20 kilometers)
+The 25-acre campus includes multiple academic blocks, administrative buildings, a central library, modern laboratories, a hostel complex, a canteen and food court, sports grounds, a gymnasium, an auditorium, a medical center, and vast open green spaces that provide a peaceful and productive academic environment.
+
+1.3 Affiliation and Approvals
+University Affiliation: Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal
+AICTE Approved: Yes — Approval Number AICTE/WB/2005/BTech/001
+UGC Recognized: Yes
+NAAC Accreditation: B++ Grade (Cycle 2, 2021)
+NBA Accreditation: Applied for BTech CSE and BTech Mechanical Engineering
+ISO Certified: ISO 9001:2015 Certified Institution
+State Government Recognition: Recognized by the Department of Higher Education, Government of West Bengal
+SECTION 2: PROGRAMS OFFERED
+Greenwood Institute of Technology and Management offers a wide range of undergraduate programs across multiple disciplines. The following programs are currently offered at the undergraduate level:
+
+Bachelor of Technology (BTech) — Computer Science and Engineering (CSE)
+Bachelor of Technology (BTech) — Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning (CSE AIML)
+Bachelor of Technology (BTech) — Computer Science and Engineering with specialization in Data Science (CSE Data Science)
+Bachelor of Technology (BTech) — Mechanical Engineering
+Bachelor of Technology (BTech) — Electrical Engineering
+Bachelor of Technology (BTech) — Electronics and Communication Engineering (ECE)
+Bachelor of Technology (BTech) — Civil Engineering
+Bachelor of Science (BSc) in Agriculture
+Bachelor of Pharmacy (BPharm)
+Bachelor of Business Administration (BBA)
+Bachelor of Computer Applications (BCA)
+Bachelor of Medical Laboratory Technology (BMLT)
+SECTION 3: FEES STRUCTURE — DETAILED DEPARTMENT WISE
+IMPORTANT GENERAL INFORMATION ABOUT FEES
+Before going into the department-wise fee breakdown, here is some important general information that every student and parent must be aware of:
+
+Total Program Duration:
+
+BTech programs: 4 years (8 semesters)
+BSc Agriculture: 4 years (8 semesters)
+BPharm: 4 years (8 semesters)
+BBA: 3 years (6 semesters)
+BCA: 3 years (6 semesters)
+BMLT: 3 years (6 semesters) + 6 months internship
+Fee Payment Schedule:
+
+Fees are to be paid on a per-semester basis
+Each academic year has 2 semesters
+Semester fees are due at the beginning of each semester, before classes commence
+A grace period of 15 days is provided from the date of fee notice for payment
+Late payment attracts a fine of Rs. 50 per day after the grace period
+Payment Modes Available:
+
+Online Payment — Through the college's official online portal (www.gitm.ac.in/fees), using Net Banking, UPI (Google Pay, PhonePe, Paytm, BHIM), Debit Card, or Credit Card. Students receive an instant digital receipt after successful payment. Online payment is available 24x7.
+Demand Draft / Cheque Payment — Students can submit a crossed demand draft or cheque drawn in favor of "Greenwood Institute of Technology and Management" payable at Barasat. Cheques must be submitted to the Accounts Department between 10:00 AM and 3:00 PM on working days. Receipt is issued after cheque clearance, which typically takes 2-3 working days.
+Cash Payment — Cash payment is accepted at the college Accounts Department (Ground Floor, Administrative Block, Room No. 102) between 10:00 AM and 2:00 PM on all working days (Monday to Saturday, except second Saturdays and public holidays). Students must carry their college ID card and admission receipt at the time of cash payment. Cash receipt is issued immediately.
+One-Time Payments (Non-Refundable):
+Certain charges are collected only once at the time of admission and are non-refundable under any circumstances. These are clearly mentioned in the fee structure of each department below.
+
+Refund Policy:
+
+If a student withdraws from the program before the commencement of classes, 90% of the tuition fee is refunded (admission fee and other one-time charges are not refunded).
+If withdrawal is made within 15 days of commencement of classes, 80% of the tuition fee is refunded.
+If withdrawal is made after 15 days but before 30 days, 50% of tuition fee is refunded.
+No refund is applicable after 30 days of commencement of classes.
+3.1 BTech — Computer Science and Engineering (CSE)
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 120 Students per year
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable at end of course)	2,000
+Laboratory Security Deposit (Refundable at end of course)	3,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	14,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	42,000
+Development Fee	3,500
+Examination Fee	2,000
+Library Fee	1,000
+Laboratory Fee	2,500
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and IT Infrastructure Fee	1,200
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	54,100
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 54,100 × 8 = Rs. 4,32,800
+
+Grand Total (Including One-Time Admission Charges): Rs. 4,32,800 + Rs. 14,800 = Rs. 4,47,600
+
+You have to pay Rs. 54,100 every semester.
+
+One-time payment at admission: Rs. 14,800 (this is paid only once when you join the college).
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.2 BTech — Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning (CSE AIML)
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+The BTech CSE with specialization in Artificial Intelligence and Machine Learning is one of the most premium and sought-after programs at GITM. This program has slightly higher fees compared to the regular CSE program owing to the advanced laboratory infrastructure, specialized software licenses, cloud computing resources, GPU-based computing systems, and industry expert guest lecturers that are an integral part of this curriculum.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Laboratory Security Deposit (Refundable)	5,000
+AI/ML Lab Setup Contribution (One-time)	3,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	19,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	48,000
+Development Fee	4,000
+Examination Fee	2,000
+Library Fee	1,000
+Specialized AI/ML Laboratory Fee	4,500
+Software License Fee (Annual tools like MATLAB, TensorFlow infra)	2,000
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and High-Speed Computing Infrastructure Fee	1,800
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	65,200
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 65,200 × 8 = Rs. 5,21,600
+
+Grand Total (Including One-Time Admission Charges): Rs. 5,21,600 + Rs. 19,800 = Rs. 5,41,400
+
+You have to pay Rs. 65,200 every semester.
+
+One-time payment at admission: Rs. 19,800.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.3 BTech — Computer Science and Engineering with Specialization in Data Science (CSE Data Science)
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+The BTech CSE with specialization in Data Science is another highly specialized and industry-aligned program offered at GITM. The program equips students with skills in big data analytics, statistical computing, machine learning, data visualization, database management, and business intelligence. The fees for this program reflect the cost of specialized data science tools, platforms like Tableau, Power BI, Python data environments, and real-world project-based learning components.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Laboratory Security Deposit (Refundable)	5,000
+Data Science Lab Setup Contribution (One-time)	3,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	19,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	46,000
+Development Fee	4,000
+Examination Fee	2,000
+Library Fee	1,000
+Data Science Laboratory Fee	4,000
+Software and Platform License Fee	1,800
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and IT Infrastructure Fee	1,500
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	62,200
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 62,200 × 8 = Rs. 4,97,600
+
+Grand Total (Including One-Time Admission Charges): Rs. 4,97,600 + Rs. 19,800 = Rs. 5,17,400
+
+You have to pay Rs. 62,200 every semester.
+
+One-time payment at admission: Rs. 19,800.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.4 BTech — Mechanical Engineering
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Workshop and Laboratory Security Deposit (Refundable)	4,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	15,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	40,000
+Development Fee	3,500
+Examination Fee	2,000
+Library Fee	1,000
+Workshop and Laboratory Fee	3,500
+CAD/CAM Software License Fee	1,200
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and IT Infrastructure Fee	800
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	53,900
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 53,900 × 8 = Rs. 4,31,200
+
+Grand Total (Including One-Time Admission Charges): Rs. 4,31,200 + Rs. 15,800 = Rs. 4,47,000
+
+You have to pay Rs. 53,900 every semester.
+
+One-time payment at admission: Rs. 15,800.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.5 BTech — Electrical Engineering
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Electrical Laboratory Security Deposit (Refundable)	4,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	15,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	39,000
+Development Fee	3,500
+Examination Fee	2,000
+Library Fee	1,000
+Electrical Laboratory Fee	3,200
+Simulation Software License Fee (MATLAB/SIMULINK)	1,000
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and IT Infrastructure Fee	800
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	52,400
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 52,400 × 8 = Rs. 4,19,200
+
+Grand Total (Including One-Time Admission Charges): Rs. 4,19,200 + Rs. 15,800 = Rs. 4,35,000
+
+You have to pay Rs. 52,400 every semester.
+
+One-time payment at admission: Rs. 15,800.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.6 BTech — Electronics and Communication Engineering (ECE)
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Electronics Laboratory Security Deposit (Refundable)	4,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	15,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	40,000
+Development Fee	3,500
+Examination Fee	2,000
+Library Fee	1,000
+Electronics and Communication Laboratory Fee	3,500
+Software License Fee (Cadence, Keil, Proteus)	1,000
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and IT Infrastructure Fee	800
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	53,700
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 53,700 × 8 = Rs. 4,29,600
+
+Grand Total (Including One-Time Admission Charges): Rs. 4,29,600 + Rs. 15,800 = Rs. 4,45,400
+
+You have to pay Rs. 53,700 every semester.
+
+One-time payment at admission: Rs. 15,800.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.7 BTech — Civil Engineering
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Surveying and Lab Equipment Security Deposit (Refundable)	3,500
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	15,300
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	38,000
+Development Fee	3,500
+Examination Fee	2,000
+Library Fee	1,000
+Civil Engineering Laboratory and Surveying Fee	3,000
+AutoCAD and STAAD Pro Software License Fee	1,000
+Sports and Cultural Fee	800
+Student Welfare Fund	500
+Internet and IT Infrastructure Fee	700
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	51,100
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 51,100 × 8 = Rs. 4,08,800
+
+Grand Total (Including One-Time Admission Charges): Rs. 4,08,800 + Rs. 15,300 = Rs. 4,24,100
+
+You have to pay Rs. 51,100 every semester.
+
+One-time payment at admission: Rs. 15,300.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.8 BSc Agriculture (Bachelor of Science in Agriculture)
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 80 Students per year
+
+The BSc Agriculture program at GITM is a comprehensive 4-year undergraduate program that covers plant science, soil science, agricultural economics, horticulture, entomology, plant pathology, agronomy, and farm management. The program includes regular farm visits, practical training at the college's own demonstration farm, and an internship with government agricultural departments or private agribusiness companies.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	4,000
+Registration Fee (University)	2,000
+Enrollment Fee	1,000
+Library Security Deposit (Refundable)	1,500
+Laboratory and Farm Equipment Security Deposit (Refundable)	2,500
+Identity Card Fee	300
+College Prospectus and Handbook	400
+Total One-Time Payment	11,700
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	28,000
+Development Fee	2,500
+Examination Fee	1,500
+Library Fee	800
+Agriculture Laboratory and Farm Practical Fee	2,500
+Field Visit and Excursion Fee	1,000
+Sports and Cultural Fee	700
+Student Welfare Fund	400
+Internet and IT Infrastructure Fee	600
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	38,600
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 38,600 × 8 = Rs. 3,08,800
+
+Grand Total (Including One-Time Admission Charges): Rs. 3,08,800 + Rs. 11,700 = Rs. 3,20,500
+
+You have to pay Rs. 38,600 every semester.
+
+One-time payment at admission: Rs. 11,700.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.9 Bachelor of Pharmacy (BPharm)
+Program Duration: 4 Years (8 Semesters)
+Total Intake: 60 Students per year
+
+The Bachelor of Pharmacy program at GITM is approved by the Pharmacy Council of India (PCI) and affiliated with MAKAUT. The program covers pharmaceutical chemistry, pharmacology, pharmacognosy, pharmaceutical analysis, hospital and clinical pharmacy, and drug regulatory affairs. Students get hands-on training in the college's state-of-the-art pharmaceutical laboratories.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	5,000
+Registration Fee (University)	2,500
+Enrollment Fee	1,500
+Library Security Deposit (Refundable)	2,000
+Pharmacy Laboratory Security Deposit (Refundable)	4,000
+PCI Registration Fee	1,000
+Identity Card Fee	300
+College Prospectus and Handbook	500
+Total One-Time Payment	16,800
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	36,000
+Development Fee	3,000
+Examination Fee	2,000
+Library Fee	1,000
+Pharmacy Laboratory and Chemical Fee	4,000
+Drug Analysis Equipment Usage Fee	1,500
+Sports and Cultural Fee	700
+Student Welfare Fund	400
+Internet and IT Infrastructure Fee	600
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	49,800
+Total Tuition Fee for Entire Program (8 Semesters): Rs. 49,800 × 8 = Rs. 3,98,400
+
+Grand Total (Including One-Time Admission Charges): Rs. 3,98,400 + Rs. 16,800 = Rs. 4,15,200
+
+You have to pay Rs. 49,800 every semester.
+
+One-time payment at admission: Rs. 16,800.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.10 Bachelor of Business Administration (BBA)
+Program Duration: 3 Years (6 Semesters)
+Total Intake: 120 Students per year
+
+The BBA program at GITM is designed to provide students with a solid foundation in business management principles, marketing, finance, human resources, entrepreneurship, and business communication. The program has strong industry linkages and offers internship opportunities with reputed companies in Kolkata and beyond.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	3,000
+Registration Fee (University)	1,500
+Enrollment Fee	1,000
+Library Security Deposit (Refundable)	1,500
+Identity Card Fee	300
+College Prospectus and Handbook	400
+Total One-Time Payment	7,700
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	22,000
+Development Fee	2,000
+Examination Fee	1,500
+Library Fee	800
+Computer Lab Fee	1,000
+Sports and Cultural Fee	700
+Student Welfare Fund	400
+Internet Fee	500
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	29,500
+Total Tuition Fee for Entire Program (6 Semesters): Rs. 29,500 × 6 = Rs. 1,77,000
+
+Grand Total (Including One-Time Admission Charges): Rs. 1,77,000 + Rs. 7,700 = Rs. 1,84,700
+
+You have to pay Rs. 29,500 every semester.
+
+One-time payment at admission: Rs. 7,700.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.11 Bachelor of Computer Applications (BCA)
+Program Duration: 3 Years (6 Semesters)
+Total Intake: 120 Students per year
+
+The BCA program at GITM is a popular and industry-aligned undergraduate program that provides students with strong foundations in computer programming, web development, software engineering, database management, networking, and mobile app development. Graduates of BCA often go on to pursue MCA or directly enter the IT industry.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	3,000
+Registration Fee (University)	1,500
+Enrollment Fee	1,000
+Library Security Deposit (Refundable)	1,500
+Computer Laboratory Security Deposit (Refundable)	2,000
+Identity Card Fee	300
+College Prospectus and Handbook	400
+Total One-Time Payment	9,700
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	24,000
+Development Fee	2,000
+Examination Fee	1,500
+Library Fee	800
+Computer Laboratory Fee	1,500
+Software License Fee	800
+Sports and Cultural Fee	700
+Student Welfare Fund	400
+Internet Fee	600
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	32,900
+Total Tuition Fee for Entire Program (6 Semesters): Rs. 32,900 × 6 = Rs. 1,97,400
+
+Grand Total (Including One-Time Admission Charges): Rs. 1,97,400 + Rs. 9,700 = Rs. 2,07,100
+
+You have to pay Rs. 32,900 every semester.
+
+One-time payment at admission: Rs. 9,700.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+3.12 Bachelor of Medical Laboratory Technology (BMLT)
+Program Duration: 3 Years (6 Semesters) + 6 Months Compulsory Internship
+Total Intake: 60 Students per year
+
+The BMLT program at GITM trains students to work as skilled medical laboratory technologists capable of performing diagnostic tests and investigations in clinical, pathological, microbiological, and biochemical laboratories. The program is affiliated with MAKAUT and approved by the relevant health and technical education authorities of West Bengal.
+
+One-Time Payment at the Time of Admission (Non-Refundable):
+Particulars	Amount (in Rs.)
+Admission Fee	4,000
+Registration Fee (University)	2,000
+Enrollment Fee	1,000
+Library Security Deposit (Refundable)	1,500
+Clinical Laboratory Security Deposit (Refundable)	3,000
+Identity Card Fee	300
+College Prospectus and Handbook	400
+Total One-Time Payment	12,200
+Per Semester Fee Breakdown:
+Particulars	Amount per Semester (in Rs.)
+Tuition Fee	26,000
+Development Fee	2,500
+Examination Fee	1,500
+Library Fee	800
+Clinical Laboratory and Consumables Fee	3,500
+Hospital Practical Training Fee	2,000
+Sports and Cultural Fee	700
+Student Welfare Fund	400
+Internet Fee	500
+Medical Fee	400
+Alumni Association Fee	200
+Total Per Semester Fee	38,500
+Internship Fee (6 months, paid separately after 6 semesters): Rs. 8,000 (One-time)
+
+Total Tuition Fee for Entire Program (6 Semesters): Rs. 38,500 × 6 = Rs. 2,31,000
+
+Grand Total (Including One-Time Admission Charges and Internship Fee): Rs. 2,31,000 + Rs. 12,200 + Rs. 8,000 = Rs. 2,51,200
+
+You have to pay Rs. 38,500 every semester.
+
+One-time payment at admission: Rs. 12,200.
+
+Internship fee of Rs. 8,000 is paid once, after completion of 6 semesters, before commencement of internship.
+
+Payment Mode: Online (portal/UPI/card), Demand Draft/Cheque, or Cash at Accounts Department.
+
+QUICK REFERENCE — FEES SUMMARY TABLE
+Program	Duration	One-Time Admission Fee (Rs.)	Per Semester Fee (Rs.)	Total Program Cost (Rs.)
+BTech CSE	4 years / 8 sem	14,800	54,100	4,47,600
+BTech CSE AIML	4 years / 8 sem	19,800	65,200	5,41,400
+BTech CSE Data Science	4 years / 8 sem	19,800	62,200	5,17,400
+BTech Mechanical	4 years / 8 sem	15,800	53,900	4,47,000
+BTech Electrical	4 years / 8 sem	15,800	52,400	4,35,000
+BTech ECE	4 years / 8 sem	15,800	53,700	4,45,400
+BTech Civil	4 years / 8 sem	15,300	51,100	4,24,100
+BSc Agriculture	4 years / 8 sem	11,700	38,600	3,20,500
+BPharm	4 years / 8 sem	16,800	49,800	4,15,200
+BBA	3 years / 6 sem	7,700	29,500	1,84,700
+BCA	3 years / 6 sem	9,700	32,900	2,07,100
+BMLT	3 years + internship	12,200	38,500	2,51,200
+SECTION 4: FACULTY MEMBERS — DEPARTMENT WISE
+IMPORTANT NOTE ABOUT FACULTY
+Greenwood Institute of Technology and Management takes immense pride in its dedicated and highly qualified faculty team. The institution has more than 130 full-time faculty members across all departments, along with visiting faculty and industry experts who regularly engage with students. A large proportion of our faculty members hold PhD degrees from reputed universities including IITs, NITs, Jadavpur University, Calcutta University, and other prestigious institutions. Many faculty members are actively engaged in research, consultancy, and publishing in reputed national and international journals. The student-to-faculty ratio at GITM is maintained at approximately 15:1, ensuring that every student receives adequate individual attention and mentorship.
+
+4.1 Department of Computer Science and Engineering (CSE / CSE AIML / CSE Data Science)
+Department Head: Dr. Subhrajit Bhattacharyya
+
+1. Dr. Subhrajit Bhattacharyya
+
+Designation: Professor and Head of Department
+Qualification: PhD (Computer Science, IIT Kharagpur), MTech (CSE, Jadavpur University), BTech (CSE, WBUT)
+Specialization: Machine Learning, Deep Learning, Computer Vision
+Experience: 22 years of teaching and research experience
+Department: CSE / CSE AIML / CSE Data Science
+Contact Email: subhrajit.bhattacharyya@gitm.ac.in
+Phone Extension: 201
+2. Dr. Priyanka Mondal
+
+Designation: Associate Professor
+Qualification: PhD (Artificial Intelligence, Calcutta University), MTech (CSE, MAKAUT), BE (CSE, WBUT)
+Specialization: Artificial Intelligence, Natural Language Processing, Neural Networks
+Experience: 15 years of teaching and 8 years of research experience
+Department: CSE / CSE AIML
+Contact Email: priyanka.mondal@gitm.ac.in
+Phone Extension: 202
+3. Dr. Amit Kumar Ghosh
+
+Designation: Associate Professor
+Qualification: PhD (Data Science, NIT Durgapur), MTech (Information Technology, Jadavpur University), BTech (CSE, WBUT)
+Specialization: Big Data Analytics, Data Mining, Statistical Learning, Business Intelligence
+Experience: 14 years of teaching experience
+Department: CSE / CSE Data Science
+Contact Email: amit.ghosh@gitm.ac.in
+Phone Extension: 203
+4. Dr. Tanusree Chakraborty
+
+Designation: Associate Professor
+Qualification: PhD (Computer Networks, Calcutta University), MTech (CSE, BESU Shibpur), BE (IT, WBUT)
+Specialization: Computer Networks, Cybersecurity, Cloud Computing
+Experience: 13 years of teaching experience
+Department: CSE
+Contact Email: tanusree.chakraborty@gitm.ac.in
+Phone Extension: 204
+5. Mr. Rajdeep Sarkar
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MTech (CSE, IIT Guwahati), BTech (CSE, WBUT) — PhD Pursuing (IIT Kharagpur)
+Specialization: Algorithm Design, Operating Systems, Distributed Computing
+Experience: 10 years of teaching experience
+Department: CSE
+Contact Email: rajdeep.sarkar@gitm.ac.in
+Phone Extension: 205
+6. Ms. Suchandra Roy
+
+Designation: Assistant Professor
+Qualification: MTech (Artificial Intelligence and Machine Learning, Jadavpur University), BTech (CSE, WBUT)
+Specialization: Machine Learning, Python Programming, Data Structures and Algorithms
+Experience: 7 years of teaching experience
+Department: CSE AIML
+Contact Email: suchandra.roy@gitm.ac.in
+Phone Extension: 206
+7. Mr. Souvik Datta
+
+Designation: Assistant Professor
+Qualification: MTech (Data Science, MAKAUT), BCA (Calcutta University)
+Specialization: Data Visualization, Power BI, Tableau, SQL and NoSQL Databases
+Experience: 6 years of teaching experience and 3 years of industry experience (previously worked at Infosys BPO as Data Analyst)
+Department: CSE Data Science
+Contact Email: souvik.datta@gitm.ac.in
+Phone Extension: 207
+8. Ms. Debarati Sen
+
+Designation: Assistant Professor
+Qualification: MTech (CSE, MAKAUT), BTech (IT, WBUT)
+Specialization: Web Technologies, Java Programming, Software Engineering
+Experience: 5 years of teaching experience
+Department: CSE
+Contact Email: debarati.sen@gitm.ac.in
+Phone Extension: 208
+9. Mr. Arghya Bose
+
+Designation: Assistant Professor
+Qualification: MTech (CSE, NIT Agartala), BTech (CSE, WBUT)
+Specialization: Deep Learning, Computer Vision, Image Processing, TensorFlow, PyTorch
+Experience: 5 years of teaching experience
+Department: CSE AIML
+Contact Email: arghya.bose@gitm.ac.in
+Phone Extension: 209
+10. Ms. Ipsita Banerjee
+
+Designation: Assistant Professor
+Qualification: MTech (Information Security, Jadavpur University), BTech (CSE, WBUT)
+Specialization: Cybersecurity, Cryptography, Ethical Hacking, Blockchain Technology
+Experience: 4 years of teaching experience
+Department: CSE
+Contact Email: ipsita.banerjee@gitm.ac.in
+Phone Extension: 210
+4.2 Department of Mechanical Engineering
+Department Head: Dr. Sudipta Mukherjee
+
+1. Dr. Sudipta Mukherjee
+
+Designation: Professor and Head of Department
+Qualification: PhD (Thermal Engineering, IIT Bombay), MTech (Mechanical Engineering, Jadavpur University), BE (Mechanical, WBUT)
+Specialization: Thermodynamics, Heat Transfer, Fluid Mechanics, Renewable Energy
+Experience: 20 years of teaching and research experience
+Department: Mechanical Engineering
+Contact Email: sudipta.mukherjee@gitm.ac.in
+Phone Extension: 301
+2. Dr. Partha Pratim Das
+
+Designation: Associate Professor
+Qualification: PhD (Manufacturing Engineering, Jadavpur University), MTech (Production Engineering, BESU Shibpur), BE (Mechanical, WBUT)
+Specialization: Manufacturing Processes, CNC Machining, Tool Design, Industrial Engineering
+Experience: 16 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: parthapratimdas@gitm.ac.in
+Phone Extension: 302
+3. Dr. Anirban Chakraborti
+
+Designation: Associate Professor
+Qualification: PhD (Robotics and Automation, IIT Kanpur), MTech (Mechanical, IIT Kharagpur), BE (Mechanical, WBUT)
+Specialization: Robotics, Mechatronics, CAD/CAM, Automation Systems
+Experience: 14 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: anirban.chakraborti@gitm.ac.in
+Phone Extension: 303
+4. Mr. Debabrata Paul
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MTech (Thermal Engineering, NIT Durgapur), BE (Mechanical, WBUT) — PhD Pursuing
+Specialization: Internal Combustion Engines, Automobile Engineering, Alternative Fuels
+Experience: 11 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: debabrata.paul@gitm.ac.in
+Phone Extension: 304
+5. Mr. Saikat Mondal
+
+Designation: Assistant Professor
+Qualification: MTech (Design Engineering, Jadavpur University), BE (Mechanical, WBUT)
+Specialization: Machine Design, Finite Element Analysis, ANSYS, SolidWorks
+Experience: 8 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: saikat.mondal@gitm.ac.in
+Phone Extension: 305
+6. Mr. Ritabrata Ghosh
+
+Designation: Assistant Professor
+Qualification: MTech (Industrial Engineering, Calcutta University), BE (Mechanical, WBUT)
+Specialization: Operations Research, Supply Chain Management, Quality Control, TQM
+Experience: 7 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: ritabrata.ghosh@gitm.ac.in
+Phone Extension: 306
+7. Ms. Pallabi Bera
+
+Designation: Assistant Professor
+Qualification: MTech (Thermal and Fluid Sciences, MAKAUT), BE (Mechanical, WBUT)
+Specialization: Fluid Dynamics, HVAC Systems, Energy Audit
+Experience: 5 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: pallabi.bera@gitm.ac.in
+Phone Extension: 307
+8. Mr. Subhasish Hazra
+
+Designation: Assistant Professor
+Qualification: MTech (Mechanical Engineering, NIT Rourkela), BE (Mechanical, WBUT)
+Specialization: Materials Science, Metallurgy, Composite Materials, Welding Technology
+Experience: 5 years of teaching experience
+Department: Mechanical Engineering
+Contact Email: subhasish.hazra@gitm.ac.in
+Phone Extension: 308
+4.3 Department of Electrical Engineering
+Department Head: Dr. Moumita Chatterjee
+
+1. Dr. Moumita Chatterjee
+
+Designation: Professor and Head of Department
+Qualification: PhD (Power Systems, Jadavpur University), MTech (Electrical Engineering, BESU Shibpur), BE (Electrical, WBUT)
+Specialization: Power Systems, Smart Grid, Renewable Energy Integration, High Voltage Engineering
+Experience: 19 years of teaching and research experience
+Department: Electrical Engineering
+Contact Email: moumita.chatterjee@gitm.ac.in
+Phone Extension: 401
+2. Dr. Biswajit Roy
+
+Designation: Associate Professor
+Qualification: PhD (Control Systems, IIT Roorkee), MTech (Electrical Engineering, Jadavpur University), BE (Electrical, WBUT)
+Specialization: Control Systems, Power Electronics, Electric Drives
+Experience: 15 years of teaching experience
+Department: Electrical Engineering
+Contact Email: biswajit.roy@gitm.ac.in
+Phone Extension: 402
+3. Dr. Sukanta Majumdar
+
+Designation: Associate Professor
+Qualification: PhD (Electrical Machines, Calcutta University), MTech (Electrical, WBUT), BE (Electrical, WBUT)
+Specialization: Electrical Machines, Transformers, Industrial Automation, PLC Programming
+Experience: 13 years of teaching experience
+Department: Electrical Engineering
+Contact Email: sukanta.majumdar@gitm.ac.in
+Phone Extension: 403
+4. Mr. Sourabh Kundu
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MTech (Power Electronics, NIT Durgapur), BE (Electrical, WBUT) — PhD Pursuing (Jadavpur University)
+Specialization: Power Electronics, Inverters, Converters, Battery Management Systems
+Experience: 10 years of teaching experience
+Department: Electrical Engineering
+Contact Email: sourabh.kundu@gitm.ac.in
+Phone Extension: 404
+5. Ms. Ankita Ghosh
+
+Designation: Assistant Professor
+Qualification: MTech (Electrical Engineering, MAKAUT), BE (Electrical, WBUT)
+Specialization: Circuit Theory, Electromagnetic Field Theory, Signal Processing
+Experience: 7 years of teaching experience
+Department: Electrical Engineering
+Contact Email: ankita.ghosh@gitm.ac.in
+Phone Extension: 405
+6. Mr. Prosenjit Biswas
+
+Designation: Assistant Professor
+Qualification: MTech (Renewable Energy, Jadavpur University), BE (Electrical, WBUT)
+Specialization: Solar Energy, Wind Energy, Energy Storage, Smart Metering
+Experience: 6 years of teaching experience
+Department: Electrical Engineering
+Contact Email: prosenjit.biswas@gitm.ac.in
+Phone Extension: 406
+7. Mr. Anupam Saha
+
+Designation: Assistant Professor
+Qualification: MTech (Electrical Engineering, BESU Shibpur), BE (Electrical, WBUT)
+Specialization: Measurement and Instrumentation, Sensors, IoT Applications in Electrical Systems
+Experience: 5 years of teaching experience
+Department: Electrical Engineering
+Contact Email: anupam.saha@gitm.ac.in
+Phone Extension: 407
+8. Ms. Rupa Dey
+
+Designation: Assistant Professor
+Qualification: MTech (Electrical Engineering, MAKAUT), BE (Electrical, WBUT)
+Specialization: Microcontrollers, Embedded Systems, VLSI Design
+Experience: 4 years of teaching experience
+Department: Electrical Engineering
+Contact Email: rupa.dey@gitm.ac.in
+Phone Extension: 408
+4.4 Department of Electronics and Communication Engineering (ECE)
+Department Head: Dr. Sumantra Mukherjee
+
+1. Dr. Sumantra Mukherjee
+
+Designation: Professor and Head of Department
+Qualification: PhD (VLSI Design, IIT Kharagpur), MTech (Electronics, Jadavpur University), BE (ECE, WBUT)
+Specialization: VLSI Design, Digital Signal Processing, Embedded Systems
+Experience: 21 years of teaching and research experience
+Department: Electronics and Communication Engineering
+Contact Email: sumantra.mukherjee@gitm.ac.in
+Phone Extension: 501
+2. Dr. Arunima Pal
+
+Designation: Associate Professor
+Qualification: PhD (Wireless Communication, Calcutta University), MTech (ECE, Jadavpur University), BE (ECE, WBUT)
+Specialization: Wireless Communication, 5G Networks, Antenna Design, RF Engineering
+Experience: 14 years of teaching experience
+Department: ECE
+Contact Email: arunima.pal@gitm.ac.in
+Phone Extension: 502
+3. Dr. Koushik Basu
+
+Designation: Associate Professor
+Qualification: PhD (Image Processing, NIT Meghalaya), MTech (Signal Processing, IIT Guwahati), BE (ECE, WBUT)
+Specialization: Image Processing, Computer Vision, Medical Imaging, Pattern Recognition
+Experience: 12 years of teaching experience
+Department: ECE
+Contact Email: koushik.basu@gitm.ac.in
+Phone Extension: 503
+4. Mr. Nilanjan Ghosh
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MTech (VLSI, Jadavpur University), BE (ECE, WBUT) — PhD Pursuing
+Specialization: Microprocessor, FPGA Design, Embedded C, Arduino and Raspberry Pi
+Experience: 9 years of teaching experience
+Department: ECE
+Contact Email: nilanjan.ghosh@gitm.ac.in
+Phone Extension: 504
+5. Ms. Shreyashi Das
+
+Designation: Assistant Professor
+Qualification: MTech (Communication Engineering, MAKAUT), BE (ECE, WBUT)
+Specialization: Analog and Digital Communication, Optical Fiber Communication, Satellite Communication
+Experience: 7 years of teaching experience
+Department: ECE
+Contact Email: shreyashi.das@gitm.ac.in
+Phone Extension: 505
+6. Mr. Tapan Kumar Manna
+
+Designation: Assistant Professor
+Qualification: MTech (Electronics, BESU Shibpur), BE (ECE, WBUT)
+Specialization: Control Systems, Network Theory, Electronic Circuit Design
+Experience: 6 years of teaching experience
+Department: ECE
+Contact Email: tapankumar.manna@gitm.ac.in
+Phone Extension: 506
+7. Ms. Rimjhim Bose
+
+Designation: Assistant Professor
+Qualification: MTech (Microwave Engineering, Calcutta University), BE (ECE, WBUT)
+Specialization: Microwave Engineering, Radar Technology, Antenna and Wave Propagation
+Experience: 5 years of teaching experience
+Department: ECE
+Contact Email: rimjhim.bose@gitm.ac.in
+Phone Extension: 507
+8. Mr. Ayan Biswas
+
+Designation: Assistant Professor
+Qualification: MTech (ECE, MAKAUT), BE (ECE, WBUT)
+Specialization: IoT, Sensor Networks, Robotics, Microcontrollers
+Experience: 4 years of teaching experience
+Department: ECE
+Contact Email: ayan.biswas@gitm.ac.in
+Phone Extension: 508
+4.5 Department of Civil Engineering
+Department Head: Dr. Pinaki Chatterjee
+
+1. Dr. Pinaki Chatterjee
+
+Designation: Professor and Head of Department
+Qualification: PhD (Structural Engineering, Jadavpur University), MTech (Civil, IIT Kharagpur), BE (Civil, WBUT)
+Specialization: Structural Analysis, Earthquake Engineering, Reinforced Concrete Design
+Experience: 18 years of teaching and research experience
+Department: Civil Engineering
+Contact Email: pinaki.chatterjee@gitm.ac.in
+Phone Extension: 601
+2. Dr. Soma Biswas
+
+Designation: Associate Professor
+Qualification: PhD (Geotechnical Engineering, IIT Delhi), MTech (Civil, Jadavpur University), BE (Civil, WBUT)
+Specialization: Soil Mechanics, Foundation Engineering, Ground Improvement Techniques
+Experience: 13 years of teaching experience
+Department: Civil Engineering
+Contact Email: soma.biswas@gitm.ac.in
+Phone Extension: 602
+3. Dr. Arunava Ghosh
+
+Designation: Associate Professor
+Qualification: PhD (Environmental Engineering, NIT Durgapur), MTech (Environmental Engineering, BESU Shibpur), BE (Civil, WBUT)
+Specialization: Water Treatment, Wastewater Management, Environmental Impact Assessment
+Experience: 12 years of teaching experience
+Department: Civil Engineering
+Contact Email: arunava.ghosh@gitm.ac.in
+Phone Extension: 603
+4. Mr. Soumyadip Mitra
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MTech (Transportation Engineering, IIT Roorkee), BE (Civil, WBUT) — PhD Pursuing
+Specialization: Highway Engineering, Traffic Management, Urban Planning, GIS
+Experience: 10 years of teaching experience
+Department: Civil Engineering
+Contact Email: soumyadip.mitra@gitm.ac.in
+Phone Extension: 604
+5. Ms. Papiya Sarkar
+
+Designation: Assistant Professor
+Qualification: MTech (Structural Engineering, Jadavpur University), BE (Civil, WBUT)
+Specialization: Concrete Technology, Building Materials, AutoCAD, STAAD Pro
+Experience: 7 years of teaching experience
+Department: Civil Engineering
+Contact Email: papiya.sarkar@gitm.ac.in
+Phone Extension: 605
+6. Mr. Abhijit Dutta
+
+Designation: Assistant Professor
+Qualification: MTech (Hydraulics and Water Resources, MAKAUT), BE (Civil, WBUT)
+Specialization: Fluid Mechanics, Hydraulics, Irrigation Engineering, River Engineering
+Experience: 6 years of teaching experience
+Department: Civil Engineering
+Contact Email: abhijit.dutta@gitm.ac.in
+Phone Extension: 606
+7. Ms. Srabanti Bera
+
+Designation: Assistant Professor
+Qualification: MTech (Construction Management, Calcutta University), BE (Civil, WBUT)
+Specialization: Project Management, Construction Planning, Cost Estimation, BIM
+Experience: 5 years of teaching experience
+Department: Civil Engineering
+Contact Email: srabanti.bera@gitm.ac.in
+Phone Extension: 607
+8. Mr. Arnab Kundu
+
+Designation: Assistant Professor
+Qualification: MTech (Civil Engineering, MAKAUT), BE (Civil, WBUT)
+Specialization: Surveying, Remote Sensing, Engineering Geology, Quantity Surveying
+Experience: 4 years of teaching experience
+Department: Civil Engineering
+Contact Email: arnab.kundu@gitm.ac.in
+Phone Extension: 608
+4.6 Department of Agriculture (BSc Agriculture)
+Department Head: Dr. Tapas Kumar Mandal
+
+1. Dr. Tapas Kumar Mandal
+
+Designation: Professor and Head of Department
+Qualification: PhD (Agronomy, Bidhan Chandra Krishi Viswavidyalaya — BCKV), MSc (Agriculture, BCKV), BSc (Agriculture, BCKV)
+Specialization: Agronomy, Crop Physiology, Sustainable Agriculture, Organic Farming
+Experience: 22 years of teaching and research experience
+Department: BSc Agriculture
+Contact Email: tapaskumar.mandal@gitm.ac.in
+Phone Extension: 701
+2. Dr. Suparna Ghosh
+
+Designation: Associate Professor
+Qualification: PhD (Soil Science, BCKV), MSc (Soil Science and Agricultural Chemistry, BCKV), BSc (Agriculture, BCKV)
+Specialization: Soil Science, Soil Fertility, Micronutrient Management, Soil Microbiology
+Experience: 15 years of teaching experience
+Department: BSc Agriculture
+Contact Email: suparna.ghosh@gitm.ac.in
+Phone Extension: 702
+3. Dr. Prasanta Kumar Roy
+
+Designation: Associate Professor
+Qualification: PhD (Plant Pathology, BCKV), MSc (Plant Pathology, BCKV), BSc (Agriculture, BCKV)
+Specialization: Plant Pathology, Disease Management, Biological Control, Plant Immunity
+Experience: 13 years of teaching experience
+Department: BSc Agriculture
+Contact Email: prasanta.roy@gitm.ac.in
+Phone Extension: 703
+4. Dr. Mriganka Roy
+
+Designation: Associate Professor
+Qualification: PhD (Horticulture, BCKV), MSc (Horticulture, Calcutta University), BSc (Agriculture, BCKV)
+Specialization: Vegetable Science, Floriculture, Post-Harvest Management, Fruit Science
+Experience: 11 years of teaching experience
+Department: BSc Agriculture
+Contact Email: mriganka.roy@gitm.ac.in
+Phone Extension: 704
+5. Mr. Kaushik Pal
+
+Designation: Assistant Professor
+Qualification: MSc (Entomology, BCKV), BSc (Agriculture, BCKV) — PhD Pursuing
+Specialization: Agricultural Entomology, Integrated Pest Management, Pesticide Science
+Experience: 9 years of teaching experience
+Department: BSc Agriculture
+Contact Email: kaushik.pal@gitm.ac.in
+Phone Extension: 705
+6. Ms. Poulami Sen
+
+Designation: Assistant Professor
+Qualification: MSc (Agricultural Economics, BCKV), BSc (Agriculture, BCKV)
+Specialization: Agricultural Economics, Farm Management, Agricultural Marketing, Rural Development
+Experience: 7 years of teaching experience
+Department: BSc Agriculture
+Contact Email: poulami.sen@gitm.ac.in
+Phone Extension: 706
+7. Mr. Subhasish Samanta
+
+Designation: Assistant Professor
+Qualification: MSc (Genetics and Plant Breeding, BCKV), BSc (Agriculture, BCKV)
+Specialization: Plant Genetics, Seed Technology, Crop Improvement, Biotechnology in Agriculture
+Experience: 6 years of teaching experience
+Department: BSc Agriculture
+Contact Email: subhasish.samanta@gitm.ac.in
+Phone Extension: 707
+8. Ms. Barsha Mitra
+
+Designation: Assistant Professor
+Qualification: MSc (Agricultural Extension, BCKV), BSc (Agriculture, BCKV)
+Specialization: Agricultural Extension, Rural Sociology, Farm Communication, Precision Agriculture
+Experience: 4 years of teaching experience
+Department: BSc Agriculture
+Contact Email: barsha.mitra@gitm.ac.in
+Phone Extension: 708
+4.7 Department of Pharmacy (BPharm)
+Department Head: Dr. Indrani Mukherjee**
+
+1. Dr. Indrani Mukherjee
+
+Designation: Professor and Head of Department
+Qualification: PhD (Pharmaceutical Chemistry, Calcutta University), MPharm (Pharmaceutical Chemistry, Jadavpur University), BPharm (Jadavpur University)
+Specialization: Medicinal Chemistry, Drug Design, Synthetic Organic Chemistry
+Experience: 20 years of teaching and research experience
+Department: Pharmacy
+Contact Email: indrani.mukherjee@gitm.ac.in
+Phone Extension: 801
+2. Dr. Raktim Mondal
+
+Designation: Associate Professor
+Qualification: PhD (Pharmacology, Calcutta University), MPharm (Pharmacology, Jadavpur University), BPharm (Calcutta University)
+Specialization: Pharmacology, Drug Toxicology, Cardiovascular Pharmacology, Pharmacokinetics
+Experience: 14 years of teaching experience
+Department: Pharmacy
+Contact Email: raktim.mondal@gitm.ac.in
+Phone Extension: 802
+3. Dr. Sudeshna Dey
+
+Designation: Associate Professor
+Qualification: PhD (Pharmacognosy, Jadavpur University), MPharm (Pharmacognosy, Jadavpur University), BPharm (WBUT)
+Specialization: Herbal Medicine, Phytochemistry, Natural Product Chemistry, Ethnopharmacology
+Experience: 12 years of teaching experience
+Department: Pharmacy
+Contact Email: sudeshna.dey@gitm.ac.in
+Phone Extension: 803
+4. Dr. Mainak Biswas
+
+Designation: Associate Professor
+Qualification: PhD (Pharmaceutics, NIT Rourkela), MPharm (Pharmaceutics, Jadavpur University), BPharm (WBUT)
+Specialization: Drug Delivery Systems, Formulation Development, Nanotechnology in Drug Delivery
+Experience: 11 years of teaching experience
+Department: Pharmacy
+Contact Email: mainak.biswas@gitm.ac.in
+Phone Extension: 804
+5. Ms. Trisha Saha
+
+Designation: Assistant Professor
+Qualification: MPharm (Pharmaceutical Analysis, Calcutta University), BPharm (WBUT) — PhD Pursuing
+Specialization: Pharmaceutical Analysis, Quality Control, Chromatography, Spectroscopy
+Experience: 7 years of teaching experience
+Department: Pharmacy
+Contact Email: trisha.saha@gitm.ac.in
+Phone Extension: 805
+6. Mr. Arjun Das
+
+Designation: Assistant Professor
+Qualification: MPharm (Pharmaceutical Technology, Jadavpur University), BPharm (WBUT)
+Specialization: Pharmaceutical Technology, Tablet Formulation, Industrial Pharmacy, GMP
+Experience: 6 years of teaching experience
+Department: Pharmacy
+Contact Email: arjun.das@gitm.ac.in
+Phone Extension: 806
+7. Ms. Ria Banerjee
+
+Designation: Assistant Professor
+Qualification: MPharm (Clinical Pharmacy, MAKAUT), BPharm (WBUT)
+Specialization: Clinical Pharmacy, Hospital Pharmacy, Pharmacovigilance, Drug Information
+Experience: 5 years of teaching experience
+Department: Pharmacy
+Contact Email: ria.banerjee@gitm.ac.in
+Phone Extension: 807
+8. Mr. Sayan Mukherjee
+
+Designation: Assistant Professor
+Qualification: MPharm (Pharmaceutical Chemistry, Calcutta University), BPharm (WBUT)
+Specialization: Organic Chemistry, Biochemistry, Drug Regulation, Pharmaceutical Jurisprudence
+Experience: 4 years of teaching experience
+Department: Pharmacy
+Contact Email: sayan.mukherjee@gitm.ac.in
+Phone Extension: 808
+4.8 Department of Business Administration (BBA)
+Department Head: Dr. Sandip Kumar Bose
+
+1. Dr. Sandip Kumar Bose
+
+Designation: Professor and Head of Department
+Qualification: PhD (Management, Calcutta University), MBA (Marketing, Calcutta University), BCom (Hons, Calcutta University)
+Specialization: Marketing Management, Consumer Behavior, Brand Management, Digital Marketing
+Experience: 18 years of teaching and industry experience
+Department: BBA
+Contact Email: sandip.bose@gitm.ac.in
+Phone Extension: 901
+2. Dr. Piyali Ghosh
+
+Designation: Associate Professor
+Qualification: PhD (Human Resource Management, Jadavpur University), MBA (HR and Finance, MAKAUT), BCom (Hons, Calcutta University)
+Specialization: Human Resource Management, Organizational Behavior, Leadership, Corporate Governance
+Experience: 14 years of teaching experience
+Department: BBA
+Contact Email: piyali.ghosh@gitm.ac.in
+Phone Extension: 902
+3. Dr. Avijit Mondal
+
+Designation: Associate Professor
+Qualification: PhD (Financial Management, Calcutta University), MBA (Finance, MAKAUT), BCom (Hons, Calcutta University)
+Specialization: Financial Management, Investment Analysis, Corporate Finance, Capital Markets
+Experience: 12 years of teaching experience
+Department: BBA
+Contact Email: avijit.mondal@gitm.ac.in
+Phone Extension: 903
+4. Ms. Pritha Roy
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MBA (Entrepreneurship and Strategy, IIM Shillong), BCom (Hons, Calcutta University) — PhD Pursuing
+Specialization: Entrepreneurship, Business Strategy, Startup Management, Business Plan Development
+Experience: 9 years of teaching experience
+Department: BBA
+Contact Email: pritha.roy@gitm.ac.in
+Phone Extension: 904
+5. Mr. Subhasis Kundu
+
+Designation: Assistant Professor
+Qualification: MBA (Operations and Supply Chain, MAKAUT), BBA (Calcutta University)
+Specialization: Operations Management, Supply Chain Management, Logistics, Production Planning
+Experience: 7 years of teaching experience (plus 4 years industry experience at TATA Motors logistics division)
+Department: BBA
+Contact Email: subhasis.kundu@gitm.ac.in
+Phone Extension: 905
+6. Ms. Ananya Das
+
+Designation: Assistant Professor
+Qualification: MBA (Marketing and International Business, Calcutta University), BCom (Hons, Calcutta University)
+Specialization: International Business, Export-Import Management, Cross-Cultural Management, E-Commerce
+Experience: 6 years of teaching experience
+Department: BBA
+Contact Email: ananya.das@gitm.ac.in
+Phone Extension: 906
+7. Mr. Amitava Saha
+
+Designation: Assistant Professor
+Qualification: MBA (Finance and Accounting, MAKAUT), BCom (Hons, Calcutta University)
+Specialization: Cost Accounting, Taxation, Financial Accounting, Auditing
+Experience: 5 years of teaching experience (3 years as Chartered Accountant Article Training)
+Department: BBA
+Contact Email: amitava.saha@gitm.ac.in
+Phone Extension: 907
+8. Ms. Sunanda Pal
+
+Designation: Assistant Professor
+Qualification: MBA (HR and Organizational Development, Jadavpur University), BBA (MAKAUT)
+Specialization: Organizational Development, Training and Development, Industrial Relations, Labor Law
+Experience: 4 years of teaching experience
+Department: BBA
+Contact Email: sunanda.pal@gitm.ac.in
+Phone Extension: 908
+4.9 Department of Computer Applications (BCA)
+Department Head: Dr. Animesh Banerjee**
+
+1. Dr. Animesh Banerjee
+
+Designation: Professor and Head of Department
+Qualification: PhD (Computer Science, Calcutta University), MCA (Jadavpur University), BSc (Computer Science, Calcutta University)
+Specialization: Software Engineering, Object-Oriented Programming, System Design, Cloud Computing
+Experience: 17 years of teaching experience
+Department: BCA
+Contact Email: animesh.banerjee@gitm.ac.in
+Phone Extension: 1001
+2. Dr. Sutapa Roy
+
+Designation: Associate Professor
+Qualification: PhD (Information Technology, MAKAUT), MCA (WBUT), BCA (Calcutta University)
+Specialization: Database Management Systems, Data Warehousing, Data Mining, Oracle DBA
+Experience: 13 years of teaching experience
+Department: BCA
+Contact Email: sutapa.roy@gitm.ac.in
+Phone Extension: 1002
+3. Mr. Arindam Bhowal
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MCA (NIT Durgapur), BCA (Calcutta University) — PhD Pursuing (Jadavpur University)
+Specialization: Web Development, PHP, JavaScript, ReactJS, NodeJS, Full Stack Development
+Experience: 10 years of teaching experience (also previously worked as Web Developer at Tech Mahindra)
+Department: BCA
+Contact Email: arindam.bhowal@gitm.ac.in
+Phone Extension: 1003
+4. Ms. Gargi Chakraborty
+
+Designation: Assistant Professor
+Qualification: MCA (MAKAUT), BSc (Computer Science, Jadavpur University)
+Specialization: Mobile Application Development, Android, iOS, React Native, Flutter
+Experience: 7 years of teaching experience
+Department: BCA
+Contact Email: gargi.chakraborty@gitm.ac.in
+Phone Extension: 1004
+5. Mr. Saibal Ghosh
+
+Designation: Assistant Professor
+Qualification: MTech (CSE, MAKAUT), BCA (Calcutta University)
+Specialization: Programming in C, C++, Java, Data Structures, Algorithm Design
+Experience: 6 years of teaching experience
+Department: BCA
+Contact Email: saibal.ghosh@gitm.ac.in
+Phone Extension: 1005
+6. Ms. Swati Dutta
+
+Designation: Assistant Professor
+Qualification: MCA (WBUT), BCA (Calcutta University)
+Specialization: Computer Networks, Cybersecurity Fundamentals, Linux Administration, Networking Protocols
+Experience: 5 years of teaching experience
+Department: BCA
+Contact Email: swati.dutta@gitm.ac.in
+Phone Extension: 1006
+7. Mr. Kushal Roy
+
+Designation: Assistant Professor
+Qualification: MCA (Calcutta University), BSc (Computer Science, Calcutta University)
+Specialization: Computer Graphics, Multimedia Systems, UI/UX Design, Photoshop, CorelDRAW
+Experience: 5 years of teaching experience
+Department: BCA
+Contact Email: kushal.roy@gitm.ac.in
+Phone Extension: 1007
+8. Ms. Debolina Mitra
+
+Designation: Assistant Professor
+Qualification: MCA (MAKAUT), BCA (WBUT)
+Specialization: Python Programming, Introduction to Artificial Intelligence, Machine Learning Basics, NumPy, Pandas
+Experience: 3 years of teaching experience
+Department: BCA
+Contact Email: debolina.mitra@gitm.ac.in
+Phone Extension: 1008
+4.10 Department of Medical Laboratory Technology (BMLT)
+Department Head: Dr. Subhasis Chakravarti**
+
+1. Dr. Subhasis Chakravarti
+
+Designation: Professor and Head of Department
+Qualification: PhD (Microbiology, Calcutta University), MSc (Medical Microbiology, All India Institute of Hygiene and Public Health), BSc (Microbiology, Calcutta University)
+Specialization: Clinical Microbiology, Medical Bacteriology, Virology, Diagnostic Immunology
+Experience: 19 years of teaching and clinical experience
+Department: BMLT
+Contact Email: subhasis.chakravarti@gitm.ac.in
+Phone Extension: 1101
+2. Dr. Aishwarya Bose
+
+Designation: Associate Professor
+Qualification: PhD (Biochemistry, Calcutta University), MSc (Medical Biochemistry, AIIMS New Delhi), BSc (Life Sciences, Delhi University)
+Specialization: Clinical Biochemistry, Enzymology, Hormonal Assays, Metabolic Disease Diagnosis
+Experience: 14 years of clinical and teaching experience
+Department: BMLT
+Contact Email: aishwarya.bose@gitm.ac.in
+Phone Extension: 1102
+3. Dr. Nirmalya Sarkar
+
+Designation: Associate Professor
+Qualification: PhD (Pathology, Calcutta University), MD Equivalent in Pathology, MBBS (Calcutta Medical College)
+Specialization: Histopathology, Cytopathology, Hematopathology, Forensic Pathology
+Experience: 16 years of clinical and teaching experience
+Department: BMLT
+Contact Email: nirmalya.sarkar@gitm.ac.in
+Phone Extension: 1103
+4. Ms. Rupali Sen
+
+Designation: Assistant Professor (Senior Grade)
+Qualification: MSc (Hematology, Calcutta University), BSc (MLT, Calcutta University) — PhD Pursuing
+Specialization: Hematology, Blood Banking, Coagulation Studies, Flow Cytometry
+Experience: 10 years of clinical laboratory and teaching experience
+Department: BMLT
+Contact Email: rupali.sen@gitm.ac.in
+Phone Extension: 1104
+5. Ms. Barnali Dutta
+
+Designation: Assistant Professor
+Qualification: MSc (Medical Laboratory Technology, MAKAUT), BSc (MLT, WBUT)
+Specialization: Clinical Pathology, Urinalysis, Stool Examination, Body Fluid Analysis
+Experience: 7 years of teaching and practical laboratory training experience
+Department: BMLT
+Contact Email: barnali.dutta@gitm.ac.in
+Phone Extension: 1105
+6. Mr. Tamal Ghosh
+
+Designation: Assistant Professor
+Qualification: MSc (Immunology, Calcutta University), BSc (Microbiology, Calcutta University)
+Specialization: Immunology, Serology, ELISA Techniques, HIV Diagnostics, Tuberculosis Diagnostics
+Experience: 6 years of teaching experience
+Department: BMLT
+Contact Email: tamal.ghosh@gitm.ac.in
+Phone Extension: 1106
+7. Ms. Susmita Bera
+
+Designation: Assistant Professor
+Qualification: MSc (Parasitology, School of Tropical Medicine, Kolkata), BSc (Zoology, Calcutta University)
+Specialization: Parasitology, Tropical Disease Diagnosis, Malaria, Kala-Azar, Helminthology
+Experience: 5 years of teaching experience
+Department: BMLT
+Contact Email: susmita.bera@gitm.ac.in
+Phone Extension: 1107
+8. Mr. Biswajit Halder
+
+Designation: Assistant Professor
+Qualification: MSc (MLT, MAKAUT), BSc (MLT, WBUT)
+Specialization: Molecular Diagnostics, PCR Techniques, DNA Extraction, Genetic Testing Basics
+Experience: 4 years of teaching and diagnostic experience
+Department: BMLT
+Contact Email: biswajit.halder@gitm.ac.in
+Phone Extension: 1108
+4.11 Department of Basic Sciences and Humanities (Serving all Engineering Departments)
+Department Head: Dr. Ranjana Biswas
+
+1. Dr. Ranjana Biswas
+
+Designation: Professor and Head of Department
+Qualification: PhD (Mathematics, IIT Bombay), MSc (Mathematics, Calcutta University), BSc (Mathematics Hons, Calcutta University)
+Specialization: Applied Mathematics, Differential Equations, Numerical Methods, Operations Research
+Experience: 20 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: ranjana.biswas@gitm.ac.in
+Phone Extension: 1201
+2. Dr. Soumen Das
+
+Designation: Associate Professor
+Qualification: PhD (Physics, Jadavpur University), MSc (Physics, Calcutta University), BSc (Physics Hons, Calcutta University)
+Specialization: Quantum Mechanics, Solid State Physics, Optics, Applied Physics
+Experience: 16 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: soumen.das@gitm.ac.in
+Phone Extension: 1202
+3. Dr. Mahua Biswas
+
+Designation: Associate Professor
+Qualification: PhD (Organic Chemistry, Calcutta University), MSc (Chemistry, Jadavpur University), BSc (Chemistry Hons, Calcutta University)
+Specialization: Organic Chemistry, Engineering Chemistry, Green Chemistry, Polymer Chemistry
+Experience: 13 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: mahua.biswas@gitm.ac.in
+Phone Extension: 1203
+4. Ms. Shreya Banerjee
+
+Designation: Assistant Professor
+Qualification: MSc (Mathematics, IIT Kharagpur), BSc (Mathematics Hons, Calcutta University)
+Specialization: Engineering Mathematics, Statistics, Probability Theory, Linear Algebra
+Experience: 8 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: shreya.banerjee@gitm.ac.in
+Phone Extension: 1204
+5. Mr. Sounak Bhattacharya
+
+Designation: Assistant Professor
+Qualification: MA (English Literature, Jadavpur University), BA (English Hons, Presidency College)
+Specialization: Technical Communication, Business English, Soft Skills, Communication Skills
+Experience: 9 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: sounak.bhattacharya@gitm.ac.in
+Phone Extension: 1205
+6. Ms. Nibedita Pal
+
+Designation: Assistant Professor
+Qualification: MSc (Physics, Calcutta University), BSc (Physics Hons, Jadavpur University)
+Specialization: Engineering Physics, Nanotechnology Basics, Laser Physics, Semiconductor Physics
+Experience: 6 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: nibedita.pal@gitm.ac.in
+Phone Extension: 1206
+7. Mr. Arnab Chatterjee
+
+Designation: Assistant Professor
+Qualification: MA (Economics, Calcutta University), BA (Economics Hons, Presidency College)
+Specialization: Managerial Economics, Environmental Economics, Industrial Economics
+Experience: 6 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: arnab.chatterjee@gitm.ac.in
+Phone Extension: 1207
+8. Ms. Sudeshna Roy
+
+Designation: Assistant Professor
+Qualification: MSc (Chemistry, MAKAUT), BSc (Chemistry Hons, Calcutta University)
+Specialization: Physical Chemistry, Environmental Chemistry, Spectroscopy, Water Chemistry
+Experience: 4 years of teaching experience
+Department: Basic Sciences and Humanities
+Contact Email: sudeshna.roy@gitm.ac.in
+Phone Extension: 1208
+SECTION 5: SCHOLARSHIPS
+Overview of Scholarship Programs at GITM
+Greenwood Institute of Technology and Management firmly believes that financial constraints should never be a barrier to quality education. The institution has therefore established a robust scholarship ecosystem that provides financial assistance to deserving students from various backgrounds. Scholarships at GITM are awarded on the basis of academic merit, financial need, community affiliation, and geographical background. The scholarship amounts are calculated as a percentage of the tuition fee component of the semester fee.
+
+Important Note: Scholarship amounts are applied to the tuition fee component only of the semester fee. Other components like examination fee, laboratory fee, development fee, etc., remain payable by the student even if they receive a scholarship.
+
+For reference, the tuition fee components are as follows (these are the amounts on which scholarship percentages are calculated):
+
+BTech CSE: Rs. 42,000 per semester
+BTech CSE AIML: Rs. 48,000 per semester
+BTech CSE Data Science: Rs. 46,000 per semester
+BTech Mechanical: Rs. 40,000 per semester
+BTech Electrical: Rs. 39,000 per semester
+BTech ECE: Rs. 40,000 per semester
+BTech Civil: Rs. 38,000 per semester
+BSc Agriculture: Rs. 28,000 per semester
+BPharm: Rs. 36,000 per semester
+BBA: Rs. 22,000 per semester
+BCA: Rs. 24,000 per semester
+BMLT: Rs. 26,000 per semester
+The following scholarships are awarded by the institution from its own scholarship fund. In addition to these, students may also apply for various government scholarships which are described in a later section.
+
+SCHOLARSHIP 1: GREENWOOD MERIT EXCELLENCE SCHOLARSHIP (GMES)
+Scholarship Name: Greenwood Merit Excellence Scholarship (GMES)
+
+Objective: This scholarship is awarded to recognize and reward exceptional academic performance at the Higher Secondary (Class 12) or equivalent board examination level. The college believes in identifying bright young minds and supporting them financially so that financial constraints do not prevent meritorious students from pursuing their dream programs.
+
+Eligibility Criteria:
+
+The applicant must have secured a minimum of 85% aggregate marks in the Higher Secondary (10+2) or equivalent board examination (West Bengal Board / CBSE / ICSE / any State Board recognized by COBSE)
+The applicant must have taken admission to any undergraduate program at GITM in the first year
+The scholarship is applicable from the very first semester
+The student must maintain a minimum CGPA of 8.0 out of 10 (or equivalent percentage of 75%) in each semester at GITM to continue receiving this scholarship in subsequent semesters
+If a student's CGPA falls below 8.0 in any semester, the scholarship will be suspended for the following semester but can be reinstated if the CGPA is restored
+There is no income limit for this scholarship — it is purely merit-based
+The scholarship is applicable to students from West Bengal as well as students from other states
+Scholarship Amount: 75% waiver on tuition fee per semester
+
+Scholarship Amount Example (BTech CSE AIML):
+
+Tuition Fee per semester: Rs. 48,000
+Scholarship Amount: 75% of Rs. 48,000 = Rs. 36,000 per semester
+Tuition Fee payable after scholarship: Rs. 12,000 per semester
+Renewable: Yes — renewed every semester based on GITM academic performance (minimum CGPA 8.0)
+
+Application Process: Submit self-attested copies of Class 10 and Class 12 marksheets, admit card, and income certificate (if any) to the Scholarship Cell, Administrative Block, Room 105, within 30 days of admission.
+
+Number of Seats: Maximum 15 seats per academic year across all programs combined (awarded to top merit rankers)
+
+SCHOLARSHIP 2: GREENWOOD ACHIEVERS SCHOLARSHIP (GAS)
+Scholarship Name: Greenwood Achievers Scholarship (GAS)
+
+Objective: This scholarship is designed for students who have performed very well in their board examinations but may not have achieved the 85% threshold required for the GMES scholarship. It provides meaningful financial support to strong performers and motivates them to continue excelling in their academic journey at GITM.
+
+Eligibility Criteria:
+
+The applicant must have secured 75% to 84.99% aggregate marks in the Higher Secondary (10+2) or equivalent board examination
+The applicant must have taken admission to any undergraduate program at GITM in the first year
+The student must maintain a minimum CGPA of 7.0 out of 10 in each semester at GITM to continue receiving this scholarship in subsequent semesters
+Applicable to all students from West Bengal, other states, and other countries
+No income restriction — purely merit-based
+Scholarship Amount: 50% waiver on tuition fee per semester
+
+Scholarship Amount Example (BTech Mechanical Engineering):
+
+Tuition Fee per semester: Rs. 40,000
+Scholarship Amount: 50% of Rs. 40,000 = Rs. 20,000 per semester
+Tuition Fee payable after scholarship: Rs. 20,000 per semester
+Renewable: Yes — renewed every semester based on GITM academic performance (minimum CGPA 7.0)
+
+Application Process: Submit board marksheets and completed scholarship application form to Scholarship Cell within 30 days of admission.
+
+Number of Seats: Maximum 30 seats per academic year across all programs combined
+
+SCHOLARSHIP 3: GREENWOOD SOCIAL WELFARE SCHOLARSHIP — ECONOMICALLY WEAKER SECTION (GSWSEWS)
+Scholarship Name: Greenwood Social Welfare Scholarship — Economically Weaker Section (GSWS-EWS)
+
+Objective: This scholarship is meant for students coming from economically disadvantaged families where the financial condition may make it extremely difficult for the student to continue higher education. GITM is committed to ensuring that no student has to abandon their educational dreams due to poverty.
+
+Eligibility Criteria:
+
+The applicant's annual family income must be below Rs. 2,50,000 (Two Lakh Fifty Thousand Rupees) per annum from all sources combined
+The applicant must submit a valid Income Certificate issued by the Block Development Officer (BDO) or the Sub-Divisional Officer (SDO) or any other competent authority recognized by the Government of West Bengal (or respective state government)
+The applicant must have secured at least 55% marks in the Higher Secondary (10+2) or equivalent board examination
+The student must maintain a minimum CGPA of 6.0 out of 10 in each semester at GITM to continue receiving this scholarship
+The applicant must not be receiving any other scholarship that amounts to more than 50% of the tuition fee; if receiving other scholarships, the combined scholarship amount should not exceed the full tuition fee
+Applicable to students from all communities and all states
+Scholarship Amount: 60% waiver on tuition fee per semester
+
+Scholarship Amount Example (BCA):
+
+Tuition Fee per semester: Rs. 24,000
+Scholarship Amount: 60% of Rs. 24,000 = Rs. 14,400 per semester
+Tuition Fee payable after scholarship: Rs. 9,600 per semester
+Renewable: Yes — the income certificate must be renewed every academic year. CGPA must be maintained at or above 6.0.
+
+Application Process: Submit income certificate (not older than 6 months), ration card copy or BPL card copy (if applicable), marksheets, admission documents, and completed scholarship form to the Scholarship Cell.
+
+Number of Seats: Up to 40 students per academic year (combined across all programs)
+
+SCHOLARSHIP 4: GREENWOOD PANCHAYAT AREA RURAL DEVELOPMENT SCHOLARSHIP (GPARDS)
+Scholarship Name: Greenwood Panchayat Area Rural Development Scholarship (GPARDS)
+
+Objective: This scholarship is specially created for students who belong to Gram Panchayat areas — rural villages and small towns that fall under Panchayati Raj administration — and have come to pursue higher education in an urban institute. The college recognizes that students from rural Panchayat areas often face additional challenges including lack of access to quality coaching, limited digital infrastructure, and social pressures, yet they demonstrate admirable determination in pursuing their educational goals. This scholarship honors and supports that spirit.
+
+Eligibility Criteria:
+
+The applicant must be a permanent resident of a Gram Panchayat area (any Gram Panchayat under any Block in West Bengal or any other state of India)
+Proof of residence in a Gram Panchayat area must be submitted in the form of a Residential Certificate or Ration Card or Voter ID showing a Gram Panchayat address, or a certificate from the local Gram Panchayat office
+The applicant must have secured at least 60% marks in the Higher Secondary (10+2) or equivalent board examination
+Annual family income must be below Rs. 4,00,000 (Four Lakh Rupees) per annum
+The student must maintain a minimum CGPA of 6.0 in each semester to continue the scholarship
+Applicable to students from all communities
+Scholarship Amount: 40% waiver on tuition fee per semester
+
+Scholarship Amount Example (BSc Agriculture):
+
+Tuition Fee per semester: Rs. 28,000
+Scholarship Amount: 40% of Rs. 28,000 = Rs. 11,200 per semester
+Tuition Fee payable after scholarship: Rs. 16,800 per semester
+Renewable: Yes — residential proof and income certificate must be submitted annually. CGPA must be maintained.
+
+Application Process: Residential certificate / Gram Panchayat certificate, income certificate, board marksheets, and scholarship application form to be submitted to the Scholarship Cell within 45 days of admission.
+
+Number of Seats: Up to 50 students per academic year across all programs
+
+SCHOLARSHIP 5: GREENWOOD TRIBAL AND SCHEDULED TRIBE EMPOWERMENT SCHOLARSHIP (GTSTES)
+Scholarship Name: Greenwood Tribal and Scheduled Tribe Empowerment Scholarship (GTSTES)
+
+Objective: This scholarship is exclusively designed for students belonging to Scheduled Tribes (ST), recognized tribal communities, forest-dwelling communities, and primitive tribal groups. The college is deeply committed to the empowerment of tribal communities through education. Many tribal students come from areas with limited educational infrastructure, and this scholarship aims to bridge the educational divide by providing significant financial relief and encouraging tribal youth to pursue professional and technical education.
+
+Eligibility Criteria:
+
+The applicant must belong to a Scheduled Tribe (ST) as recognized by the Government of India or the respective State Government, OR must belong to any officially recognized tribal community of West Bengal (including Santali, Mundari, Ho, Bhumij, Oraon, Lodha, Shabar, and other recognized tribes)
+A valid ST Certificate issued by the competent authority (SDO/BDO/Tehsildar) must be submitted
+The applicant must have secured at least 50% marks in the Higher Secondary (10+2) or equivalent board examination
+Annual family income must be below Rs. 5,00,000 (Five Lakh Rupees) per annum
+The student must maintain a minimum CGPA of 5.5 out of 10 in each semester (recognizing the additional challenges tribal students may face in adapting to an urban academic environment)
+The scholarship is renewable as long as the student maintains academic standards and provides updated certificates annually
+Scholarship Amount: 75% waiver on tuition fee per semester
+
+Scholarship Amount Example (BTech CSE):
+
+Tuition Fee per semester: Rs. 42,000
+Scholarship Amount: 75% of Rs. 42,000 = Rs. 31,500 per semester
+Tuition Fee payable after scholarship: Rs. 10,500 per semester
+Additional Benefit: Students receiving this scholarship also get priority allotment in the college hostel and a one-time book grant of Rs. 3,000 for purchasing textbooks in the first year.
+
+Renewable: Yes — ST certificate to be verified annually. CGPA must be at or above 5.5.
+
+Application Process: ST Certificate, income certificate, residential certificate, board marksheets, and scholarship form to be submitted to the Scholarship Cell. A personal interview with the Scholarship Committee may be required.
+
+Number of Seats: Up to 30 students per academic year across all programs
+
+SCHOLARSHIP 6: GREENWOOD OUTSTATION STUDENT SCHOLARSHIP — FOR STUDENTS FROM OTHER STATES (GOSS)
+Scholarship Name: Greenwood Outstation Student Scholarship — Students from States Other Than West Bengal (GOSS)
+
+Objective: Greenwood Institute of Technology and Management welcomes students from across India and aims to be a truly national institution. To encourage students from states other than West Bengal to consider GITM as their educational destination, the college offers a special scholarship for students who relocate from other states to pursue their education at our campus. The college recognizes the additional challenges and costs that outstation students face — including travel, adaptation to a new environment, learning Bengali, and being away from family — and this scholarship is a gesture of appreciation for their trust in GITM.
+
+Eligibility Criteria:
+
+The applicant must be a permanent resident of a state other than West Bengal, supported by a valid state government-issued document (Aadhaar Card, Voter ID, or Domicile Certificate showing a non-West Bengal address)
+The applicant must have secured at least 65% marks in the Higher Secondary (10+2) or equivalent board examination from their respective state board or CBSE/ICSE
+Annual family income must be below Rs. 6,00,000 (Six Lakh Rupees) per annum
+The student must maintain a minimum CGPA of 6.5 out of 10 in each semester to continue receiving the scholarship
+Students from the northeastern states of India, Jharkhand, Odisha, Bihar, and the Hill districts of West Bengal (Darjeeling, Kalimpong, Alipurduar) are especially encouraged to apply
+This scholarship is also applicable to students from Jammu & Kashmir, Ladakh, and other Union Territories
+Scholarship Amount: 25% waiver on tuition fee per semester
+
+Scholarship Amount Example (BBA):
+
+Tuition Fee per semester: Rs. 22,000
+Scholarship Amount: 25% of Rs. 22,000 = Rs. 5,500 per semester
+Tuition Fee payable after scholarship: Rs. 16,500 per semester
+Additional Benefit: The college also provides outstation students with free one-time airport/railway station pickup from Kolkata at the time of first admission through the Student Support Cell.
+
+Renewable: Yes — Domicile/residential proof from home state to be submitted annually. CGPA of 6.5 to be maintained.
+
+Application Process: Domicile Certificate or state-issued residential proof, board marksheets, income certificate, Aadhaar Card, and scholarship form to be submitted to the Scholarship Cell within 30 days of admission.
+
+Number of Seats: Up to 20 students per academic year (applicable across all programs)
+
+SCHOLARSHIP 7: GREENWOOD GIRL CHILD EMPOWERMENT SCHOLARSHIP (GGCES)
+Scholarship Name: Greenwood Girl Child Empowerment Scholarship (GGCES)
+
+Objective: In alignment with the national goals of empowering women through education and increasing female enrollment in technical and professional programs, GITM has established this exclusive scholarship for female students. The institution firmly believes in gender equity in education and is committed to creating a campus environment where women can thrive, innovate, and lead.
+
+Eligibility Criteria:
+
+The applicant must be a female student (including transgender women students with relevant documentation)
+The applicant must have secured at least 60% marks in the Higher Secondary (10+2) or equivalent board examination
+No income restriction — this scholarship is available to female students from all economic backgrounds
+The student must maintain a minimum CGPA of 6.5 out of 10 in each semester to continue the scholarship
+Especially encouraged for female students enrolling in BTech programs (CSE, CSE AIML, CSE Data Science, Mechanical, Electrical, ECE, Civil) where female enrollment has traditionally been lower
+Also applicable for BBA, BCA, BMLT, BSc Agriculture, and BPharm programs
+Scholarship Amount: 35% waiver on tuition fee per semester
+
+Scholarship Amount Example (BTech Electrical Engineering):
+
+Tuition Fee per semester: Rs. 39,000
+Scholarship Amount: 35% of Rs. 39,000 = Rs. 13,650 per semester
+Tuition Fee payable after scholarship: Rs. 25,350 per semester
+Additional Benefits:
+
+Free access to the Women's Empowerment Cell's mentorship programs
+Priority for leadership roles in college-level technical committees
+Access to the college's Women in Technology (WIT) club and its special industry connect sessions
+Renewable: Yes — CGPA of 6.5 to be maintained each semester. No income recertification required.
+
+Application Process: Gender proof document, board marksheets, admission receipt, and scholarship form to be submitted within 30 days of admission to the Scholarship Cell.
+
+Number of Seats: Up to 60 students per academic year across all programs
+
+SCHOLARSHIP 8: GREENWOOD SINGLE PARENT FAMILY SUPPORT SCHOLARSHIP (GSPFSS)
+Scholarship Name: Greenwood Single Parent Family Support Scholarship (GSPFSS)
+
+Objective: This scholarship is specifically designed for students who are being raised by a single parent, be it due to the death of one parent, divorce or separation, or other life circumstances. Raising a child and financing higher education as a single-income family is an enormous challenge, and GITM acknowledges and honors the sacrifices made by single parents. This scholarship aims to reduce the financial burden on such families and ensure that students from single-parent households do not miss out on quality higher education.
+
+Eligibility Criteria:
+
+The applicant must be from a single-parent family, supported by one of the following documents:
+Death Certificate of the deceased parent (in case of death of one parent)
+Court-issued Divorce Decree or Separation Order (in case of separation/divorce)
+A self-declaration affidavit on stamp paper in cases where documentation is not formally available, verified by a local Notary
+Annual income of the single parent must be below Rs. 3,50,000 (Three Lakh Fifty Thousand Rupees) per annum
+The applicant must have secured at least 55% marks in the Higher Secondary (10+2) or equivalent board examination
+The student must maintain a minimum CGPA of 5.5 out of 10 in each semester
+The scholarship is applicable to both male and female students from all communities and all states
+Scholarship Amount: 50% waiver on tuition fee per semester
+
+Scholarship Amount Example (BMLT):
+
+Tuition Fee per semester: Rs. 26,000
+Scholarship Amount: 50% of Rs. 26,000 = Rs. 13,000 per semester
+Tuition Fee payable after scholarship: Rs. 13,000 per semester
+Additional Benefits:
+
+Student receives complimentary counseling sessions from the college's student wellness center
+Priority consideration in part-time campus employment opportunities (like library assistant, lab assistant roles) that pay a small stipend
+Renewable: Yes — Single parent status to be reconfirmed annually. Income certificate to be renewed annually. CGPA of 5.5 to be maintained.
+
+Application Process: Relevant documentation proving single-parent status, income certificate of single parent, board marksheets, and scholarship form to be submitted to the Scholarship Cell within 45 days of admission.
+
+Number of Seats: Up to 25 students per academic year across all programs
+
+COMBINATION OF SCHOLARSHIPS
+Students may be eligible for more than one scholarship. However, the combined scholarship amount cannot exceed 100% of the tuition fee in any given semester. If a student qualifies for multiple scholarships, the higher scholarship will be applied first, and the second scholarship will apply to the remaining tuition fee balance, subject to the combined total not exceeding 100% of the tuition fee.
+
+For any scholarship-related queries, students and parents may contact:
+
+Scholarship Cell, GITM
+Room No. 105, Ground Floor, Administrative Block
+Phone: 033-2567-4892 (Extension 105)
+Email: scholarships@gitm.ac.in
+Office Hours: Monday to Friday, 10:00 AM to 4:00 PM; Saturday 10:00 AM to 1:00 PM
+
+Government Scholarships Available to GITM Students
+Beyond the institutional scholarships described above, students at GITM are also eligible to apply for several prestigious government-funded scholarship programs. The Scholarship Cell actively assists students in applying for these government scholarships and maintaining their renewals. The following government scholarship programs are available to eligible GITM students:
+
+Swami Vivekananda Merit Cum Means Scholarship (SVMCM) — Government of West Bengal
+The Swami Vivekananda Merit Cum Means Scholarship (SVMCM) is one of the most prestigious and widely availed scholarships for students pursuing higher education in West Bengal. This scholarship is entirely funded by the Government of West Bengal through the Department of Higher Education and is administered through the online portal e-scholarships.wb.gov.in. We strongly encourage every eligible student at GITM to apply for this scholarship as it can significantly reduce the financial burden of higher education.
+
+About the SVMCM Scholarship:
+
+The SVMCM scholarship was launched by the Government of West Bengal with the noble objective of ensuring that financial constraints do not prevent meritorious students from accessing quality higher education. It is available to students from West Bengal who are pursuing undergraduate and postgraduate programs in technical, professional, and general stream institutions.
+
+Eligibility for SVMCM (for new applicants at GITM):
+
+The student must be a permanent resident of West Bengal with West Bengal as their domicile state
+The student must have passed the West Bengal Higher Secondary Examination (HS) or any recognized equivalent examination conducted within West Bengal
+The student must have secured a minimum of 60% aggregate marks in the qualifying examination (HS or equivalent)
+The annual family income of the applicant must not exceed Rs. 2,50,000 (Two Lakh Fifty Thousand Rupees) per annum from all sources
+The student must be enrolled in a government-approved institution affiliated with a recognized university — GITM qualifies under this criterion as it is affiliated with MAKAUT and approved by AICTE and UGC
+The student must not be receiving any other full scholarship from the government or any other source that covers tuition fees in full
+Scholarship Amount under SVMCM:
+
+The SVMCM scholarship provides the following amounts for technical and professional courses:
+
+Category	Scholarship Amount per Annum
+Technical/Professional Courses (BTech, BPharm, etc.)	Rs. 60,000 per year (i.e., Rs. 30,000 per semester)
+General / Non-Technical UG Courses (BBA, BCA, BMLT, BSc, etc.)	Rs. 30,000 per year (i.e., Rs. 15,000 per semester)
+Note: These amounts are as per the latest government notification and are subject to revision by the Government of West Bengal from time to time. Students are advised to check the official SVMCM portal for the most up-to-date scholarship amounts.
+
+SVMCM Application Process:
+
+Visit the official website: https://svmcm.wbhed.gov.in or https://scholarships.wbhed.gov.in
+Register using your Aadhaar number and mobile number
+Fill in the online application form with all required details
+Upload the required documents:
+Scanned copy of HS Marksheet and Certificate
+Income Certificate from competent authority (not older than 1 year)
+Bank passbook copy (student's own bank account — preferably in a nationalized bank)
+Aadhaar Card
+Passport-size photograph
+Residential certificate / voter ID / ration card showing West Bengal address
+Admission receipt from GITM
+Fee payment receipt from GITM
+Submit the application online and note the application reference number
+The GITM Scholarship Cell will verify your application at the institutional level before forwarding it to the university and the government portal
+Important Deadlines: The SVMCM application window typically opens in September-October for the academic year beginning in July. Students must not miss the deadline. The exact deadline is announced by the Government of West Bengal each year and is displayed on the scholarship portal and the college notice board and website.
+
+Renewal of SVMCM:
+
+Existing scholars must renew their SVMCM scholarship every year by submitting their annual marksheet/result showing they have cleared all papers without any back papers
+A minimum of 60% marks (or CGPA equivalent) must be maintained in each year/semester
+Income certificate must be renewed and resubmitted each year
+Renewal application is done online on the same portal
+The Scholarship Cell at GITM conducts dedicated SVMCM application workshops at the beginning of each academic year, where students receive step-by-step guidance on how to apply online, what documents to prepare, and how to avoid common mistakes that lead to rejection or delays. We strongly encourage all West Bengal domicile students from economically weaker families to attend these workshops.
+
+The SVMCM scholarship, when combined with GITM's institutional scholarships (where applicable), can make the cost of higher education at GITM remarkably affordable. For example, a BTech student at GITM receiving both the GSWSEWS institutional scholarship (60% tuition fee waiver = approximately Rs. 25,200 per semester for BTech CSE) AND the SVMCM scholarship (Rs. 30,000 per semester for technical courses) could potentially have their entire tuition fee and more covered in a given semester, making higher education virtually free for the most eligible students.
+
+Other Government Scholarships Applicable to GITM Students:
+Post Matric Scholarship for SC Students (Government of West Bengal / Ministry of Social Justice and Empowerment, Government of India):
+Students belonging to Scheduled Castes (SC) who are studying in post-matriculation courses including BTech, BCA, BBA, BMLT, BSc Agriculture, and BPharm at GITM are eligible to apply for the Post Matric Scholarship for SC students. The application is made through the National Scholarship Portal (NSP) at scholarships.gov.in. Income limit is Rs. 2,50,000 per annum. The scholarship amount covers tuition fees and provides a maintenance allowance.
+
+Post Matric Scholarship for OBC Students (Government of West Bengal):
+Students from Other Backward Classes (OBC) enrolled in post-matriculation programs at GITM may apply for the OBC Post Matric Scholarship through the West Bengal e-scholarship portal. Income limit and scholarship amounts vary as per government notification. Students are advised to check the current rates on the official government portal.
+
+Central Sector Scholarship Scheme for College and University Students (Ministry of Education, Government of India):
+This scholarship is for students who secured above the 80th percentile in their Class 12 board exams and whose family income is below Rs. 8,00,000 per annum. The scholarship provides Rs. 12,000 per annum for the first three years and Rs. 20,000 per annum for professional programs. Applications are made through the National Scholarship Portal (NSP).
+
+Minority Scholarship Schemes:
+Students from minority communities (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) enrolled at GITM may apply for scholarships under the Pre-Matric and Post-Matric Scholarship Schemes for Minorities administered by the Ministry of Minority Affairs, Government of India, through the National Scholarship Portal. Income limit is Rs. 2,00,000 per annum.
+
+Prime Minister's Scholarship Scheme for Central Armed Police Forces (CAPF) and Railway Protection Force (RPF):
+Children of personnel serving in or who died or were disabled while serving in CAPF or RPF are eligible for this scholarship. Amount: Rs. 25,000 per annum for boys and Rs. 30,000 per annum for girls studying in technical and professional programs at GITM. Apply through NSP.
+
+Ishan Uday Scholarship for North East Region:
+Students from the eight northeastern states (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura) enrolled at GITM are eligible to apply for the Ishan Uday Scholarship provided by the University Grants Commission. The scholarship provides Rs. 5,400 per month for general degree programs and Rs. 7,800 per month for technical and professional programs. Apply through NSP. Family income should be below Rs. 4,50,000 per annum.
+
+West Bengal Free Studentship and Fee Waiver Scheme:
+Students from West Bengal whose family income is below Rs. 1,20,000 per annum and who are studying at recognized institutions in West Bengal may apply for complete tuition fee waiver under the state government's Free Studentship scheme. GITM processes these applications and forwards them to MAKAUT. Eligible students are identified at the time of admission.
+
+For all government scholarship-related queries, document verification, and application assistance, please contact the GITM Scholarship Cell:
+
+Location: Room 105, Ground Floor, Administrative Block
+Phone: 033-2567-4892 (Ext. 105)
+Email: scholarships@gitm.ac.in
+Dedicated Government Scholarship Helpdesk: Every Tuesday and Thursday, 11:00 AM to 1:00 PM, at the Scholarship Cell
+SECTION 6: PLACEMENTS — DEPARTMENT WISE
+Overview of Placement at GITM
+The Training and Placement Cell (TPC) of Greenwood Institute of Technology and Management is one of the most active and result-oriented departments of the college. The TPC is headed by Dr. Suvendu Roy, a seasoned professional with 12 years of industry experience at Infosys and Wipro before joining academia, and it is supported by a dedicated team of placement coordinators, training managers, and industry liaison officers.
+
+The placement journey at GITM begins from the very first year of the program. First-year students undergo a structured Career Readiness Program (CRP) that focuses on developing communication skills, resume writing, aptitude and reasoning skills, coding abilities, and interview preparation. From the second year onwards, students undergo domain-specific technical training, workshops by industry experts, hackathons, coding competitions, and mock interviews. By the time they reach their final year, GITM students are thoroughly prepared to face campus recruitment processes of top companies.
+
+The college has strong relationships with over 150+ companies across sectors including Information Technology, Manufacturing, Pharmaceuticals, Healthcare, BFSI (Banking, Financial Services, and Insurance), Agribusiness, and Management Consulting, all of whom participate in GITM's campus recruitment process every year.
+
+The placement season at GITM officially begins in August-September of the final year (4th year for BTech / BSc Agriculture / BPharm students, and 3rd year for BBA / BCA / BMLT students). Companies begin registering with the TPC from June onwards. Pre-Placement Offers (PPOs) may be extended from July onwards for students who have completed internships with companies.
+
+6.1 Placement Record — BTech Computer Science and Engineering (CSE / CSE AIML / CSE Data Science)
+The CSE department, including its specialized branches in AI/ML and Data Science, consistently records the highest placement percentage among all departments at GITM. The department has a placement rate of approximately 92% for eligible students who actively participate in the campus recruitment process.
+
+Top Companies That Recruited CSE / CSE AIML / CSE Data Science Students:
+
+Company Name	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Tata Consultancy Services (TCS)	Software Developer, System Engineer	Rs. 3.8 LPA	Rs. 5.2 LPA
+Infosys	Systems Engineer, Digital Specialist	Rs. 4.0 LPA	Rs. 6.5 LPA
+Wipro Technologies	Project Engineer, Software Trainee	Rs. 3.5 LPA	Rs. 5.0 LPA
+Cognizant Technology Solutions (CTS)	Programmer Analyst, GenC Pro	Rs. 4.2 LPA	Rs. 7.0 LPA
+HCL Technologies	Software Developer, Technology Trainee	Rs. 3.8 LPA	Rs. 5.5 LPA
+Capgemini India	Associate Consultant, Software Engineer	Rs. 4.5 LPA	Rs. 7.5 LPA
+Tech Mahindra	Software Engineer, Junior Developer	Rs. 3.6 LPA	Rs. 5.0 LPA
+Accenture India	Associate Software Engineer	Rs. 4.5 LPA	Rs. 8.0 LPA
+IBM India	Junior Software Developer, Cloud Trainee	Rs. 5.0 LPA	Rs. 9.5 LPA
+Amazon Development Centre India	SDE-1 (Software Development Engineer)	Rs. 18.0 LPA	Rs. 28.0 LPA
+Flipkart	Software Engineer — Product	Rs. 15.0 LPA	Rs. 22.0 LPA
+Zoho Corporation	Software Developer	Rs. 8.0 LPA	Rs. 14.0 LPA
+Mindtree	Software Engineer	Rs. 4.2 LPA	Rs. 6.5 LPA
+Mphasis	Engineer — Software	Rs. 3.8 LPA	Rs. 5.5 LPA
+L&T Infotech (LTIMindtree)	Software Engineer	Rs. 5.5 LPA	Rs. 9.0 LPA
+Persistent Systems	Software Developer	Rs. 5.0 LPA	Rs. 8.5 LPA
+EPAM Systems India	Junior Software Engineer	Rs. 6.5 LPA	Rs. 11.0 LPA
+Hexaware Technologies	Software Engineer Trainee	Rs. 4.0 LPA	Rs. 6.0 LPA
+Tiger Analytics	Data Analyst, Junior Data Scientist	Rs. 7.0 LPA	Rs. 13.0 LPA
+Mu Sigma	Business Analyst, Trainee Decision Scientist	Rs. 5.5 LPA	Rs. 9.0 LPA
+Fractal Analytics	Data Analyst	Rs. 6.5 LPA	Rs. 11.5 LPA
+Sigmoid (Data Science Company)	Associate Data Analyst	Rs. 7.5 LPA	Rs. 13.0 LPA
+Publicis Sapient	Associate Software Engineer	Rs. 6.0 LPA	Rs. 10.5 LPA
+Deloitte USI (Technology)	Analyst — Technology Consulting	Rs. 7.2 LPA	Rs. 12.0 LPA
+Tata Data Sciences and Analytics	Data Analyst Trainee	Rs. 6.0 LPA	Rs. 10.0 LPA
+Overall Statistics — CSE / CSE AIML / CSE Data Science (Most Recent Placement Cycle):
+
+Total Eligible Students: 218
+Students Placed: 201
+Placement Percentage: 92.2%
+Average Salary Package: Rs. 5.8 LPA
+Highest Salary Package: Rs. 28.0 LPA (Amazon Development Centre)
+Lowest Salary Package: Rs. 3.5 LPA
+Number of Companies That Visited: 42
+Notable Achievements:
+
+12 students from BTech CSE AIML batch received packages above Rs. 12 LPA
+5 students secured positions at product-based companies (Amazon, Flipkart, Zoho) with packages exceeding Rs. 14 LPA
+28 students from the CSE Data Science batch were placed in analytics and data science roles with average packages of Rs. 6.5 LPA
+3 students from CSE received international internship offers that led to pre-placement offers from companies in Singapore and Dubai
+6.2 Placement Record — BTech Mechanical Engineering
+The Mechanical Engineering department has a placement rate of approximately 78% for eligible students, with students finding employment in core engineering, manufacturing, automobile, and energy sectors.
+
+Top Companies That Recruited Mechanical Engineering Students:
+
+Company Name	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Tata Motors Ltd.	Graduate Engineer Trainee (GET)	Rs. 4.5 LPA	Rs. 6.5 LPA
+Larsen and Toubro (L&T) Heavy Engineering	Graduate Engineer Trainee	Rs. 5.0 LPA	Rs. 7.5 LPA
+Hindustan Aeronautics Limited (HAL)	Engineer Trainee	Rs. 5.5 LPA	Rs. 7.0 LPA
+Bharat Forge Ltd.	Graduate Trainee Engineer — Manufacturing	Rs. 4.8 LPA	Rs. 6.5 LPA
+NTPC Limited	Engineering Executive Trainee	Rs. 6.5 LPA	Rs. 8.0 LPA
+BHEL (Bharat Heavy Electricals Ltd.)	Engineer Trainee	Rs. 5.8 LPA	Rs. 7.5 LPA
+Mahindra and Mahindra	Graduate Engineer Trainee — Manufacturing	Rs. 4.2 LPA	Rs. 6.0 LPA
+Steel Authority of India (SAIL)	Junior Manager (Technical)	Rs. 6.0 LPA	Rs. 7.8 LPA
+Godrej and Boyce Mfg. Co. Ltd.	Graduate Engineer Trainee	Rs. 4.5 LPA	Rs. 6.5 LPA
+Voltas Limited (TATA Enterprise)	Engineering Trainee — HVAC	Rs. 4.0 LPA	Rs. 5.5 LPA
+Indian Oil Corporation Ltd. (IOCL)	Engineering Assistant	Rs. 6.8 LPA	Rs. 8.5 LPA
+Siemens India	Trainee Engineer	Rs. 5.5 LPA	Rs. 8.0 LPA
+Bosch India	Engineering Trainee	Rs. 5.0 LPA	Rs. 7.5 LPA
+TVS Motor Company	Graduate Engineer Trainee	Rs. 4.2 LPA	Rs. 6.0 LPA
+Thermax Ltd.	GET — Energy and Environment	Rs. 4.8 LPA	Rs. 6.5 LPA
+Indian Railways (through GATE / RRB)	Junior Engineer	Rs. 4.5 LPA	Rs. 5.5 LPA
+JSW Steel	Junior Engineer — Manufacturing	Rs. 4.0 LPA	Rs. 5.8 LPA
+Schneider Electric India	Application Engineer Trainee	Rs. 5.0 LPA	Rs. 7.0 LPA
+Overall Statistics — Mechanical Engineering (Most Recent Placement Cycle):
+
+Total Eligible Students: 56
+Students Placed: 44
+Placement Percentage: 78.6%
+Average Salary Package: Rs. 5.1 LPA
+Highest Salary Package: Rs. 8.5 LPA (IOCL)
+Number of Companies That Visited: 21
+Notable Achievements:
+
+8 students qualified for PSU (Public Sector Undertakings) jobs through GATE scores
+3 students placed at international manufacturing firms through campus drives
+6 students pursued higher studies (MTech / MBA) at reputed institutions after graduation
+6.3 Placement Record — BTech Electrical Engineering
+The Electrical Engineering department has a placement rate of approximately 75% for eligible students. Students are placed in the power, energy, manufacturing, and automation sectors.
+
+Top Companies That Recruited Electrical Engineering Students:
+
+Company Name	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Power Grid Corporation of India Ltd. (PGCIL)	Executive Trainee	Rs. 7.5 LPA	Rs. 9.0 LPA
+NTPC Limited	Engineering Executive Trainee	Rs. 6.5 LPA	Rs. 8.5 LPA
+Tata Power Company Ltd.	Graduate Engineer Trainee	Rs. 5.0 LPA	Rs. 7.5 LPA
+Siemens India Ltd.	Trainee Engineer — Electrical	Rs. 5.5 LPA	Rs. 8.0 LPA
+ABB India Ltd.	Graduate Engineer Trainee	Rs. 5.0 LPA	Rs. 7.5 LPA
+Schneider Electric India	Application Engineer	Rs. 4.8 LPA	Rs. 7.0 LPA
+Bharat Bijlee Ltd.	Trainee Engineer	Rs. 4.2 LPA	Rs. 6.0 LPA
+CESC Limited (Kolkata)	Assistant Engineer Trainee	Rs. 5.5 LPA	Rs. 7.0 LPA
+WBSEDCL (West Bengal State Electricity Distribution Company)	Junior Engineer	Rs. 4.8 LPA	Rs. 6.0 LPA
+WBSETCL	Junior Engineer — Transmission	Rs. 5.0 LPA	Rs. 6.5 LPA
+L&T Electrical and Automation	Executive Trainee	Rs. 5.2 LPA	Rs. 7.5 LPA
+Havells India Ltd.	Management Trainee (Technical)	Rs. 4.5 LPA	Rs. 6.5 LPA
+Emerson India	Field Application Engineer	Rs. 5.0 LPA	Rs. 7.0 LPA
+Polycab India	Electrical Design Trainee	Rs. 4.0 LPA	Rs. 5.5 LPA
+Torrent Power	Graduate Engineer Trainee	Rs. 5.5 LPA	Rs. 7.5 LPA
+Overall Statistics — Electrical Engineering (Most Recent Placement Cycle):
+
+Total Eligible Students: 54
+Students Placed: 41
+Placement Percentage: 75.9%
+Average Salary Package: Rs. 5.4 LPA
+Highest Salary Package: Rs. 9.0 LPA (Power Grid Corporation of India)
+Number of Companies That Visited: 17
+6.4 Placement Record — BTech Electronics and Communication Engineering (ECE)
+The ECE department has a placement rate of approximately 80% for eligible students, with students finding roles in telecom, embedded systems, VLSI, defense, and semiconductor sectors.
+
+Top Companies That Recruited ECE Students:
+
+Company Name	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Wipro Technologies	Project Engineer	Rs. 3.5 LPA	Rs. 5.0 LPA
+Tech Mahindra (Telecom Division)	Network Engineer Trainee	Rs. 4.0 LPA	Rs. 6.0 LPA
+Tata Elxsi	Electronics Design Engineer	Rs. 5.5 LPA	Rs. 9.0 LPA
+Samsung R&D Bangalore	Engineer — Embedded Systems	Rs. 8.0 LPA	Rs. 14.0 LPA
+Qualcomm India	ASIC Design Engineer (Fresher)	Rs. 12.0 LPA	Rs. 18.0 LPA
+Broadcom India	Digital Design Engineer	Rs. 10.5 LPA	Rs. 16.5 LPA
+DRDO (through GATE)	Scientist B	Rs. 7.0 LPA	Rs. 9.0 LPA
+ISRO (through ICRB)	Scientist/Engineer SC	Rs. 7.5 LPA	Rs. 9.5 LPA
+Bharat Electronics Limited (BEL)	Engineer Trainee	Rs. 5.8 LPA	Rs. 7.5 LPA
+Bosch India	Embedded Software Engineer Trainee	Rs. 5.5 LPA	Rs. 8.0 LPA
+STMicroelectronics India	Applications Engineer Trainee	Rs. 6.0 LPA	Rs. 9.5 LPA
+Analog Devices India	Applications Engineer	Rs. 7.5 LPA	Rs. 12.0 LPA
+Ericsson India	Network Engineer Associate	Rs. 5.0 LPA	Rs. 8.0 LPA
+Nokia Networks India	Radio Network Engineer Trainee	Rs. 4.8 LPA	Rs. 7.5 LPA
+Vedanta Semiconductors	Design Verification Engineer	Rs. 8.5 LPA	Rs. 14.0 LPA
+Overall Statistics — ECE (Most Recent Placement Cycle):
+
+Total Eligible Students: 55
+Students Placed: 44
+Placement Percentage: 80.0%
+Average Salary Package: Rs. 6.2 LPA
+Highest Salary Package: Rs. 18.0 LPA (Qualcomm India)
+Number of Companies That Visited: 19
+Notable Achievements:
+
+2 students placed at Qualcomm and Broadcom with packages exceeding Rs. 15 LPA — the highest-paid ECE graduates in the batch
+3 students placed at defense/space organizations (DRDO, ISRO, BEL)
+6.5 Placement Record — BTech Civil Engineering
+The Civil Engineering department has a placement rate of approximately 70% for eligible students. Civil Engineering graduates also have strong opportunities in government services through state and central public service commission examinations.
+
+Top Companies That Recruited Civil Engineering Students:
+
+Company Name	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Larsen and Toubro Construction	Graduate Engineer Trainee — Civil	Rs. 5.0 LPA	Rs. 7.0 LPA
+Shapoorji Pallonji Group	Site Engineer Trainee	Rs. 4.2 LPA	Rs. 5.8 LPA
+Afcons Infrastructure Ltd.	Graduate Trainee — Construction	Rs. 4.5 LPA	Rs. 6.5 LPA
+RITES Limited	Executive Trainee (Civil)	Rs. 5.5 LPA	Rs. 7.0 LPA
+Rail Vikas Nigam Ltd. (RVNL)	Junior Engineer Trainee	Rs. 4.8 LPA	Rs. 6.2 LPA
+National Buildings Construction Corporation (NBCC)	Management Trainee	Rs. 5.5 LPA	Rs. 7.5 LPA
+HPCL / IOCL (Civil Projects)	Engineering Assistant — Civil	Rs. 6.0 LPA	Rs. 7.5 LPA
+Nagarjuna Construction Company	Site Engineer	Rs. 4.0 LPA	Rs. 5.5 LPA
+Kolkata Municipal Corporation (KMC)	Junior Engineer (via exam)	Rs. 4.5 LPA	Rs. 5.8 LPA
+West Bengal PWD	Junior Engineer (via exam)	Rs. 4.2 LPA	Rs. 5.5 LPA
+TCS iON (Infrastructure Projects)	Junior Consultant	Rs. 3.8 LPA	Rs. 5.2 LPA
+Gammon India	Site Supervisor / Engineer	Rs. 3.8 LPA	Rs. 5.5 LPA
+Jones Lang LaSalle (JLL)	Project Management Trainee	Rs. 4.5 LPA	Rs. 7.0 LPA
+Overall Statistics — Civil Engineering (Most Recent Placement Cycle):
+
+Total Eligible Students: 52
+Students Placed: 37
+Placement Percentage: 71.2%
+Average Salary Package: Rs. 4.8 LPA
+Highest Salary Package: Rs. 7.5 LPA (NBCC and HPCL/IOCL)
+Number of Companies That Visited: 14
+Note: A significant number of Civil Engineering students (approximately 20-25% of the batch) also qualify for state and central government positions through competitive examinations (WBPSC-JE, SSC-JE, RRB-JE, UPSC) held during or after their final year.
+
+6.6 Placement Record — BSc Agriculture
+Agriculture graduates from GITM find employment in a wide range of sectors including agribusiness corporations, agricultural input companies, government agricultural departments, food processing companies, and banking institutions (as agricultural loan officers).
+
+Top Companies/Organizations That Recruited BSc Agriculture Students:
+
+Company/Organization	Roles Offered	Average Package (per annum)	Highest Package Recorded
+ITC Limited (Agribusiness Division)	Agricultural Executive / Field Officer	Rs. 4.0 LPA	Rs. 6.5 LPA
+Mahindra Agri Solutions	Agricultural Field Executive	Rs. 3.5 LPA	Rs. 5.5 LPA
+Bayer CropScience India	Territory Sales Manager Trainee	Rs. 4.5 LPA	Rs. 7.0 LPA
+Syngenta India	Technical Field Representative	Rs. 4.2 LPA	Rs. 6.5 LPA
+IFFCO (Indian Farmers Fertiliser Cooperative)	Management Trainee	Rs. 5.0 LPA	Rs. 7.5 LPA
+Coromandel International	Technical Officer — Agronomy	Rs. 4.0 LPA	Rs. 6.0 LPA
+NABARD (National Bank for Agriculture and Rural Development)	Development Assistant (via exam)	Rs. 5.5 LPA	Rs. 7.0 LPA
+State Bank of India (Agriculture Loan Officer)	Junior Associate via IBPS	Rs. 4.5 LPA	Rs. 6.0 LPA
+National Seeds Corporation (NSC)	Assistant Manager Trainee	Rs. 4.8 LPA	Rs. 6.5 LPA
+West Bengal Agriculture Department (Government)	Agriculture Extension Officer (AEO) via exam	Rs. 4.2 LPA	Rs. 5.5 LPA
+Amul (GCMMF) — Agri Procurement	Area Sales Executive	Rs. 4.0 LPA	Rs. 6.0 LPA
+Mother Dairy Fruits and Vegetables	Agricultural Quality Officer	Rs. 3.8 LPA	Rs. 5.5 LPA
+BigHaat (Agri-Tech Startup)	Agronomy Advisor	Rs. 3.5 LPA	Rs. 6.0 LPA
+DeHaat (Agri-Tech Startup)	Field Agricultural Expert	Rs. 3.8 LPA	Rs. 5.5 LPA
+Utkarsh Small Finance Bank (Agri)	Agriculture Field Officer	Rs. 3.5 LPA	Rs. 5.0 LPA
+Overall Statistics — BSc Agriculture (Most Recent Placement Cycle):
+
+Total Eligible Students: 72
+Students Placed: 52
+Placement Percentage: 72.2%
+Average Salary Package: Rs. 4.1 LPA
+Highest Salary Package: Rs. 7.5 LPA (IFFCO)
+Number of Companies That Visited: 18
+Notable Achievements:
+
+8 students qualified for state and central government agriculture department positions through competitive examinations
+4 students received NABARD internship-to-job offers
+6 students are pursuing MSc Agriculture at prestigious agricultural universities including BCKV, IARI, and G.B. Pant University
+6.7 Placement Record — Bachelor of Pharmacy (BPharm)
+Pharmacy graduates from GITM are placed in pharmaceutical manufacturing companies, hospital pharmacies, retail pharmacy chains, drug regulatory organizations, and quality control laboratories.
+
+Top Companies/Organizations That Recruited BPharm Students:
+
+Company/Organization	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Sun Pharmaceutical Industries	Quality Control Analyst Trainee	Rs. 3.8 LPA	Rs. 6.0 LPA
+Cipla Limited	Production Pharmacist Trainee	Rs. 4.0 LPA	Rs. 6.5 LPA
+Dr. Reddy's Laboratories	QA/QC Trainee	Rs. 4.2 LPA	Rs. 7.0 LPA
+Lupin Pharmaceuticals	Manufacturing Executive Trainee	Rs. 3.8 LPA	Rs. 6.0 LPA
+Mankind Pharma	Medical Representative	Rs. 3.5 LPA	Rs. 5.5 LPA
+Torrent Pharmaceuticals	Quality Analyst	Rs. 4.0 LPA	Rs. 6.0 LPA
+Alkem Laboratories	Regulatory Affairs Executive Trainee	Rs. 3.8 LPA	Rs. 6.0 LPA
+IPCA Laboratories	Production Trainee	Rs. 3.5 LPA	Rs. 5.5 LPA
+Apollo Pharmacy (Hospital Retail Chain)	Pharmacy Executive	Rs. 3.0 LPA	Rs. 4.5 LPA
+Medplus Health Services	Registered Pharmacist	Rs. 2.8 LPA	Rs. 4.0 LPA
+Fortis Healthcare (Hospital Pharmacy)	Clinical Pharmacist (Fresher)	Rs. 3.5 LPA	Rs. 5.0 LPA
+AMRI Hospitals Kolkata	Hospital Pharmacist	Rs. 3.2 LPA	Rs. 4.5 LPA
+Eastern Medikit Ltd.	Sales and Marketing Executive	Rs. 3.5 LPA	Rs. 5.0 LPA
+Zydus Healthcare	Medical Representative	Rs. 3.8 LPA	Rs. 5.5 LPA
+Bengal Chemicals and Pharmaceuticals	Quality Control Officer	Rs. 3.5 LPA	Rs. 5.0 LPA
+Overall Statistics — BPharm (Most Recent Placement Cycle):
+
+Total Eligible Students: 54
+Students Placed: 41
+Placement Percentage: 75.9%
+Average Salary Package: Rs. 3.7 LPA
+Highest Salary Package: Rs. 7.0 LPA (Dr. Reddy's Laboratories)
+Number of Companies That Visited: 16
+Note: A significant portion of BPharm graduates also pursue MPharm for higher qualification, or register as pharmacists with the West Bengal Pharmacy Council for independent practice or hospital pharmacy roles.
+
+6.8 Placement Record — Bachelor of Business Administration (BBA)
+BBA graduates from GITM find employment across a diverse range of sectors including banking, insurance, retail, marketing, HR, and sales. Many also pursue MBA after completing their BBA.
+
+Top Companies/Organizations That Recruited BBA Students:
+
+Company/Organization	Roles Offered	Average Package (per annum)	Highest Package Recorded
+HDFC Bank	Relationship Manager Trainee / PO	Rs. 3.8 LPA	Rs. 6.0 LPA
+ICICI Bank	Sales Officer / Customer Service	Rs. 3.5 LPA	Rs. 5.5 LPA
+Axis Bank	Relationship Executive	Rs. 3.2 LPA	Rs. 4.8 LPA
+Kotak Mahindra Bank	Retail Banking Trainee	Rs. 3.5 LPA	Rs. 5.0 LPA
+Bajaj Allianz Life Insurance	Financial Services Consultant	Rs. 3.0 LPA	Rs. 5.0 LPA
+Max Life Insurance	Relationship Manager	Rs. 3.2 LPA	Rs. 4.8 LPA
+Reliance Retail	Management Trainee — Retail Operations	Rs. 3.5 LPA	Rs. 5.5 LPA
+Future Group (Big Bazaar / FBB)	Assistant Store Manager Trainee	Rs. 3.0 LPA	Rs. 4.5 LPA
+Amazon India (Operations)	Area Manager Trainee / Workforce Analyst	Rs. 4.5 LPA	Rs. 7.0 LPA
+Flipkart (Supply Chain)	Operations Executive Trainee	Rs. 4.0 LPA	Rs. 6.5 LPA
+Byju's (EdTech)	Business Development Associate	Rs. 3.5 LPA	Rs. 5.0 LPA (plus incentives)
+Naukri.com / Info Edge	Business Development Executive	Rs. 3.5 LPA	Rs. 5.5 LPA
+KPMG (Support functions)	Junior Analyst	Rs. 4.0 LPA	Rs. 6.5 LPA
+EY (Ernst and Young) — GDS	Junior Analyst — BPM	Rs. 4.2 LPA	Rs. 7.0 LPA
+Deloitte USI	Analyst — Business Operations	Rs. 4.5 LPA	Rs. 7.5 LPA
+Paytm	Key Account Manager Trainee	Rs. 3.5 LPA	Rs. 5.5 LPA
+Overall Statistics — BBA (Most Recent Placement Cycle):
+
+Total Eligible Students: 106
+Students Placed: 79
+Placement Percentage: 74.5%
+Average Salary Package: Rs. 3.7 LPA
+Highest Salary Package: Rs. 7.5 LPA (Deloitte USI)
+Number of Companies That Visited: 20
+Note: Approximately 30-35% of BBA graduates from GITM pursue MBA from reputed institutions including IIMs, Xavier Institute, NMIMS, and Calcutta Business School (CBS) after clearing CAT/XAT/MAT examinations. The TPC provides dedicated CAT/MBA entrance coaching support through its Academic Excellence Cell.
+
+6.9 Placement Record — Bachelor of Computer Applications (BCA)
+BCA graduates from GITM are placed in IT companies, web development agencies, software product companies, and banking technology divisions. Many also pursue MCA after BCA.
+
+Top Companies That Recruited BCA Students:
+
+Company Name	Roles Offered	Average Package (per annum)	Highest Package Recorded
+TCS (iON / BPS)	Process Associate / Junior Developer	Rs. 3.2 LPA	Rs. 4.5 LPA
+Infosys BPM	Process Executive / Junior Programmer	Rs. 3.0 LPA	Rs. 4.2 LPA
+Wipro BPS	Associate — IT Operations	Rs. 3.0 LPA	Rs. 4.0 LPA
+HCL BPO	Technical Support Executive	Rs. 3.2 LPA	Rs. 4.5 LPA
+Cognizant BPO	Process Analyst Trainee	Rs. 3.5 LPA	Rs. 5.0 LPA
+NIIT Technologies	Junior Software Trainer / Developer	Rs. 3.2 LPA	Rs. 4.5 LPA
+Webskitters Technology Solutions (Kolkata-based)	Junior Web Developer	Rs. 2.8 LPA	Rs. 4.5 LPA
+Saptang Labs Pvt. Ltd.	Junior App Developer	Rs. 3.0 LPA	Rs. 5.0 LPA
+Techno Brain India	Junior Software Developer	Rs. 3.0 LPA	Rs. 4.8 LPA
+Mphasis BPS	Junior Analyst	Rs. 3.2 LPA	Rs. 4.5 LPA
+Genpact India	Process Associate	Rs. 3.0 LPA	Rs. 4.2 LPA
+ExlService Holdings	Analyst — Technology	Rs. 3.5 LPA	Rs. 5.0 LPA
+iGate Mastech Digital	Junior Developer	Rs. 3.0 LPA	Rs. 4.5 LPA
+Freshworks	Junior Support Developer	Rs. 4.5 LPA	Rs. 7.0 LPA
+Zoho Corporation	Junior Developer	Rs. 5.0 LPA	Rs. 8.0 LPA
+Overall Statistics — BCA (Most Recent Placement Cycle):
+
+Total Eligible Students: 108
+Students Placed: 78
+Placement Percentage: 72.2%
+Average Salary Package: Rs. 3.5 LPA
+Highest Salary Package: Rs. 8.0 LPA (Zoho Corporation)
+Number of Companies That Visited: 16
+6.10 Placement Record — Bachelor of Medical Laboratory Technology (BMLT)
+BMLT graduates from GITM are among the most sought-after medical laboratory professionals in Kolkata and surrounding regions. They find employment in hospital labs, diagnostic centers, pathology labs, research institutions, and blood banks.
+
+Top Hospitals/Institutions That Recruited BMLT Students:
+
+Hospital / Diagnostic Center	Roles Offered	Average Package (per annum)	Highest Package Recorded
+Apollo Gleneagles Hospitals, Kolkata	Medical Laboratory Technologist	Rs. 2.8 LPA	Rs. 4.5 LPA
+AMRI Hospitals (All Units), Kolkata	Lab Technician / MLT	Rs. 2.5 LPA	Rs. 4.0 LPA
+Fortis Hospital, Kolkata	Junior Laboratory Technologist	Rs. 2.8 LPA	Rs. 4.5 LPA
+Medica Superspecialty Hospital	Laboratory Technologist	Rs. 2.5 LPA	Rs. 4.0 LPA
+Peerless Hospital and BK Roy Research Centre	MLT Trainee	Rs. 2.2 LPA	Rs. 3.5 LPA
+RN Tagore International Institute of Cardiac Sciences	Lab Technician	Rs. 3.0 LPA	Rs. 4.5 LPA
+SRL Diagnostics (Pan-India)	Laboratory Technologist	Rs. 3.2 LPA	Rs. 5.0 LPA
+Metropolis Healthcare	Clinical Laboratory Scientist	Rs. 3.0 LPA	Rs. 4.8 LPA
+Dr. Lal PathLabs	Lab Technologist / Collection Center Manager	Rs. 2.8 LPA	Rs. 4.5 LPA
+Thyrocare Technologies	Lab Analyst	Rs. 2.5 LPA	Rs. 4.0 LPA
+Suburban Diagnostics	Laboratory Technologist	Rs. 2.8 LPA	Rs. 4.5 LPA
+Tata Medical Center, Kolkata (Cancer Hospital)	Research Laboratory Technologist	Rs. 3.5 LPA	Rs. 5.5 LPA
+National Institute of Cholera and Enteric Diseases (NICED, ICMR)	Research Laboratory Technologist (Contract)	Rs. 3.0 LPA	Rs. 5.0 LPA
+School of Tropical Medicine, Kolkata	Research Technician	Rs. 2.8 LPA	Rs. 4.2 LPA
+West Bengal Health Service (Government Hospitals)	Laboratory Technician (via exam)	Rs. 3.5 LPA	Rs. 4.8 LPA
+Overall Statistics — BMLT (Most Recent Placement Cycle):
+
+Total Eligible Students: 52
+Students Placed: 43
+Placement Percentage: 82.7%
+Average Salary Package: Rs. 3.0 LPA
+Highest Salary Package: Rs. 5.5 LPA (Tata Medical Center)
+Number of Companies / Hospitals That Visited: 17
+Notable Achievements:
+
+BMLT has consistently maintained one of the highest placement rates (above 80%) across all non-engineering departments
+5 students were placed at ICMR-affiliated research institutions as laboratory research assistants
+3 students received offers from the West Bengal State Health Department through government recruitment processes
+SECTION 7: ACADEMIC CALENDAR — CLASS COMMENCEMENT AND SCHEDULE
+7.1 Admission and Enrollment Schedule
+The admission process at Greenwood Institute of Technology and Management follows the academic calendar set by the Government of West Bengal, MAKAUT, and AICTE. The following is the typical annual academic schedule:
+
+Admission Notification Release: Usually in the month of May, after the declaration of Higher Secondary (Class 12) board results
+
+Online Application Period: May to July — Students can apply online through the official GITM website (www.gitm.ac.in) or through the West Bengal Joint Entrance Examination (WBJEE) portal for BTech programs. For other programs (BBA, BCA, BMLT, BSc Agriculture, BPharm), direct applications are accepted through the college website.
+
+Entrance Examination / Merit-Based Selection:
+
+BTech programs: Based on WBJEE (West Bengal Joint Entrance Examination) rank for West Bengal domicile students, and JEE Main rank for students from other states
+BSc Agriculture: Based on WBJEE (Agriculture stream) rank
+BPharm: Based on WBJEE (Pharmacy stream) rank
+BBA, BCA, BMLT: Based on Merit in Higher Secondary examination (no separate entrance exam)
+Counseling and Seat Allotment: July to August — Centralized counseling for WBJEE-based programs; direct admission interviews and merit list publication for non-WBJEE programs
+
+Document Verification and Admission Confirmation: August — Students must submit original documents and pay the initial semester fees within the stipulated time to confirm their admission
+
+7.2 Commencement of Classes
+Classes for the new batch (First Year students) typically begin in the month of September.
+
+Specifically, the academic session at GITM is structured as follows:
+
+First Year First Semester:
+
+Orientation Program: The college organizes a 3-day Orientation Program for all newly admitted students before the commencement of regular classes. This orientation is typically held in the last week of August or first week of September. During the orientation, students are introduced to the college campus, rules and regulations, faculty members, department heads, library and laboratory facilities, hostel and canteen facilities, the student welfare cell, the anti-ragging committee, the internal complaints committee, and various student clubs and organizations. Parents are also invited to attend the orientation.
+
+Commencement of Regular Classes: Regular classes begin on the first Monday of September every year. The exact date is communicated through the college website, notice board, and student WhatsApp groups maintained by each department.
+
+End of First Semester: The first semester typically concludes with end-semester examinations in the month of January (for semester examinations conducted by MAKAUT) or as per the university's examination schedule announced from time to time
+
+Second Semester:
+
+Commencement of Second Semester: The second semester begins in February
+End of Second Semester: May to June
+Subsequent Semesters (2nd year onwards):
+
+Odd Semesters (Semester 3, 5, 7): July/August to January
+Even Semesters (Semester 2, 4, 6, 8): February to June/July
+Academic Calendar Features:
+
+Each semester has approximately 90 teaching days (as mandated by AICTE)
+Mid-semester examinations (internal assessments) are conducted after approximately 45 teaching days
+End-semester examinations are conducted by MAKAUT as per the university examination schedule
+The college follows a semester credit system as per MAKAUT regulations
+7.3 Holidays and Vacation Schedule
+Summer Vacation: Approximately 4-6 weeks between end of even semester exams (May/June) and start of odd semester (July/August)
+
+Winter Break: Approximately 10-15 days around Christmas and New Year (late December to early January), coinciding with the preparation period for end-semester exams
+
+Public Holidays: The college observes all state and central government public holidays including Republic Day (January 26), Independence Day (August 15), Gandhi Jayanti (October 2), Durga Puja (5-7 days), Kali Puja, Diwali, Eid (both), Christmas, Saraswati Puja, Holi, Dol Purnima, Rabindra Jayanti, Netaji's Birthday, and other locally celebrated festivals. The complete list of holidays is published in the Academic Calendar at the beginning of each academic year.
+
+Total Teaching Days: The college ensures a minimum of 180 teaching days per academic year across both semesters, in compliance with AICTE and MAKAUT norms.
+
+SECTION 8: HOSTEL FACILITIES
+8.1 Overview of Hostel at GITM
+Greenwood Institute of Technology and Management provides on-campus hostel accommodation to students who require it. The hostel is a significant amenity for outstation students, students from rural and remote areas, and students who prefer to stay on campus for better academic focus. The college has separate hostel buildings for male and female students, ensuring privacy, safety, and comfort for all residents.
+
+The hostel at GITM is not just a place to sleep — it is a community that fosters friendships, collaboration, and personal growth. Many of our best student projects, startup ideas, and research collaborations have originated from late-night discussions in hostel common rooms. The hostel environment is designed to support academic excellence while also providing a comfortable, home-like atmosphere.
+
+Total Hostel Capacity:
+
+Boys' Hostel: 3 hostel buildings with a combined capacity of 600 male students
+Girls' Hostel: 2 hostel buildings with a combined capacity of 400 female students
+Total Hostel Capacity: 1,000 students
+Hostel Admission Priority:
+
+Students from outside West Bengal (outstation students from other states)
+Students from remote areas within West Bengal (Sundarban area, tribal belts, Hill districts)
+Students who have received the Tribal Empowerment Scholarship or Panchayat Area Scholarship
+First-year students in general
+Students with physical disabilities (given ground floor rooms on priority)
+Final year students based on availability
+8.2 Boys' Hostel — Facilities and Fee Structure
+Hostel Buildings:
+
+Greenwood Boys' Hostel Block A: 200-room building, 4 floors, equipped with elevator
+Greenwood Boys' Hostel Block B: 220-room building, 4 floors, equipped with elevator
+Greenwood Boys' Hostel Block C: 180-room building, 3 floors (older building, recently renovated)
+Room Types:
+
+Room Type	Occupancy	Monthly Rent (Per Student)	Facilities
+Double Sharing Room	2 students	Rs. 4,500/month	Single bed, study table, chair, wardrobe per student, ceiling fan, window
+Triple Sharing Room	3 students	Rs. 3,500/month	Single bed, study table, chair, wardrobe per student, ceiling fan, window
+Single Room (Limited)	1 student	Rs. 7,500/month	Single bed, study table, chair, large wardrobe, attached toilet, ceiling fan, AC (in select rooms)
+Common Facilities in Boys' Hostel:
+
+Common Toilets and Bathrooms (separate from rooms) with hot water geysers available from 5:00 AM to 8:00 AM and 6:00 PM to 10:00 PM
+Common Room with television (cable connection), carrom boards, chess sets, and indoor games
+Study Hall (air-conditioned) — open from 6:00 AM to 11:30 PM
+High-Speed Wi-Fi Internet (25 Mbps dedicated for hostel, provided by Airtel Fiber) — available 24 hours
+Laundry facility (washing machines — paid, Rs. 20 per wash cycle) — 6 machines available per block
+Ironing facility
+Water purifier (RO-UV) — drinking water available 24 hours in each floor
+Emergency Power Backup (Generator) for all critical lights and fans
+CCTV surveillance at entry/exit points, corridors, and common areas
+Security Guard at hostel gate — 24-hour security
+Warden's office in each block
+Rules and Timings — Boys' Hostel:
+
+Hostel gate closes at 10:00 PM on weekdays and 10:30 PM on weekends (Friday and Saturday)
+Students must sign in/out in the register at the gate
+Visitors (including parents) are allowed only in the visitor's room during visiting hours (4:00 PM to 7:00 PM on weekdays, 10:00 AM to 7:00 PM on Sundays and holidays)
+Cooking inside rooms is strictly prohibited for safety reasons
+Smoking, alcohol, and consumption of any intoxicants inside the hostel is strictly prohibited and results in immediate hostel expulsion
+Ragging in any form inside the hostel is a zero-tolerance offence
+Hostel Mess Fees (Boys' Hostel):
+
+The hostel mess provides 3 meals per day (Breakfast, Lunch, Dinner) + Evening Snacks
+Monthly Mess Fee: Rs. 3,500 per month (vegetarian menu)
+Non-vegetarian options available twice a week (Tuesday and Saturday) at an additional charge of Rs. 30-50 per meal
+Sunday special menu is provided at no additional cost
+Total Monthly Cost for Boys' Hostel (Room + Mess — Triple Sharing): Rs. 3,500 + Rs. 3,500 = Rs. 7,000 per month
+8.3 Girls' Hostel — Facilities and Fee Structure
+Hostel Buildings:
+
+Greenwood Girls' Hostel Block A (Saraswati Bhavan): 220-room building, 4 floors, equipped with elevator, women warden resident on campus
+Greenwood Girls' Hostel Block B (Durga Bhavan): 180-room building, 3 floors, recently constructed (2020), modern amenities
+Room Types:
+
+Room Type	Occupancy	Monthly Rent (Per Student)	Facilities
+Double Sharing Room	2 students	Rs. 5,000/month	Single bed, study table, chair, wardrobe per student, ceiling fan, attached bathroom
+Triple Sharing Room	3 students	Rs. 4,000/month	Single bed, study table, chair, wardrobe per student, ceiling fan
+Single Room (Limited, for senior students)	1 student	Rs. 8,000/month	Single bed, study table, chair, wardrobe, attached toilet, AC
+Common Facilities in Girls' Hostel:
+
+Attached bathrooms in most rooms (Block A) and shared bathrooms with ratio 1:6 in Block B, with hot water 24 hours
+Common Room with television, indoor games, books and magazines
+Dedicated Sanitary Vending Machine installed on each floor
+Study Hall (air-conditioned, 24-hour access for residents)
+High-Speed Wi-Fi Internet (30 Mbps dedicated for girls' hostel, 24 hours)
+Laundry facility (4 washing machines per block — Rs. 20 per wash cycle)
+Ironing facility
+Water purifier (RO-UV) on each floor
+Emergency Power Backup (Generator)
+Female Security Guard + CCTV — 24-hour security with female security personnel at entry gate
+Resident Lady Warden — available on campus 24 hours; separate wardens for each block
+Female Counselor — available twice a week at the girls' hostel for personal and academic counseling
+Rules and Timings — Girls' Hostel:
+
+Hostel gate closes at 9:30 PM on weekdays and 10:00 PM on weekends
+Late entry requires prior permission from the warden and is discouraged except in exceptional circumstances
+Male visitors are NOT permitted inside the girls' hostel building at any time; they may meet residents in the designated visitor's room only
+Parents / female guardians may visit during designated visiting hours (10:00 AM to 6:00 PM on Sundays)
+Cooking inside rooms is prohibited
+Smoking, alcohol, and intoxicants are strictly prohibited
+Hostel Mess Fees (Girls' Hostel):
+
+Monthly Mess Fee: Rs. 3,800 per month (slightly higher owing to additional variety in the menu and better kitchen hygiene standards maintained in the girls' hostel)
+Menu
+create or generate text for college rag chatbot project actually what happend is i dosen't have enough data so create data ...i am instructing you data would be in 5 laks to 10 lakhs words .....explain in this topics about college , what is the fees structure for Btech CSE AIML, data science, BBA,BMLT, BCA, Agreculture, farmacy ...machenical, electrical and all ...like total semester fees is this ....you have to pay this amount every semester , one time payment .... payment mod: online, check, and cash .....saparetely build the fees section of all departnment ....... then tell some about all facalties like they are phds and all create some random name for faculty member there should be more than 100 faculty name their departnment their degrees , their branch ...their contact details.....in list format ...in one domain there should be 8 to 10 faculty member .... then scholarship create some random scholarship name around create some 6 or 8 scholararship.... each requerments are will be different like 75 percent in boed exam , 85 percent in bord exam....some like belong to panchad area...., poor family condition and all you create in your way...and the scholarship amount will be a percentage of tusicion fees per semester like 25%, 50%,75%, 60% etc ......ooo mention one for outsider of this state, and some tribel student and all then says our student also get government scholarship like SVMCM and make it engorata some. then tell something random but logical about that out=r studints are palced with these salary pacages and all in thesee thesee companies .....create it departnmrnt wise and salary amount and the campany names ..... then tell from when wil be classe sstarted and all and mention hostel facalities then cantee and libery facalities ......explain about out mordern labs ...and all jest give me the text you don't havr to create pdfs and all
+
+
